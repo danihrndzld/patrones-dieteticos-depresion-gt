@@ -1,0 +1,59 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{Marco contextual}{5}{section*.5}%
+\contentsline {section}{Objetivos}{12}{section*.6}%
+\contentsline {subsection}{Objetivo General}{12}{section*.7}%
+\contentsline {subsection}{Objetivos Específicos}{12}{section*.8}%
+\contentsline {section}{Materiales y métodos}{13}{section*.9}%
+\contentsline {subsection}{Diseño investigación}{13}{section*.10}%
+\contentsline {subsubsection}{Enfoque}{13}{section*.11}%
+\contentsline {subsubsection}{Alcance}{13}{section*.12}%
+\contentsline {subsubsection}{Técnicas}{13}{section*.13}%
+\contentsline {subsubsection}{Cuestionario de dieta}{14}{section*.14}%
+\contentsline {subsection}{Instrumentos}{14}{section*.15}%
+\contentsline {subsubsection}{Cuestionario de Hábitos Dietéticos}{14}{section*.16}%
+\contentsline {subsubsection}{Escala de Depresión de Beck}{14}{section*.17}%
+\contentsline {subsubsection}{Pruebas de Laboratorio para Marcadores Inflamatorios}{15}{section*.18}%
+\contentsline {subsection}{Muestra y población}{15}{section*.19}%
+\contentsline {subsection}{Selección y definición de variables}{15}{section*.20}%
+\contentsline {subsubsection}{Escala de Beck para la Depresión}{16}{section*.21}%
+\contentsline {subsubsection}{Cuestionario de Dieta}{16}{section*.22}%
+\contentsline {section}{Hipótesis}{16}{section*.23}%
+\contentsline {section}{Procedimiento para recolección de datos}{16}{section*.24}%
+\contentsline {subsection}{Análisis estadístico y procesamiento de datos}{17}{section*.25}%
+\contentsline {subsection}{Descripción y Justificación de Métodos y Técnicas de Análisis}{17}{section*.26}%
+\contentsline {subsection}{Procedimientos Estadísticos}{18}{section*.27}%
+\contentsline {subsubsection}{Aplicación y Análisis de la Escala de Depresión de Beck}{18}{section*.28}%
+\contentsline {subsubsection}{Pruebas de Normalidad}{18}{section*.29}%
+\contentsline {subsubsection}{Comparaciones Varianza (ANOVA)}{19}{section*.30}%
+\contentsline {subsubsection}{Correlación y Análisis de Regresión:}{19}{section*.31}%
+\contentsline {subsubsection}{Visualización y Presentación de Datos}{19}{section*.32}%
+\contentsline {subsubsection}{Interpretación Contextualizada de Resultados}{19}{section*.33}%
+\contentsline {subsection}{Inclusión de Aspectos Clave en el Análisis}{19}{section*.34}%
+\contentsline {subsubsection}{Verificación de Normalidad de los Datos}{19}{section*.35}%
+\contentsline {subsubsection}{Evaluación de la Confiabilidad de las Herramientas de Medición}{20}{section*.36}%
+\contentsline {subsubsection}{Estadísticas Descriptivas de la Muestra}{20}{section*.37}%
+\contentsline {subsubsection}{Interpretación Contextualizada de Resultados:}{20}{section*.38}%
+\contentsline {section}{Consideraciones Éticas}{20}{section*.39}%
+\contentsline {subsection}{Consentimiento Informado}{20}{section*.40}%
+\contentsline {subsection}{Confidencialidad y Privacidad}{21}{section*.41}%
+\contentsline {subsection}{Aprobación de un Comité de Ética}{21}{section*.42}%
+\contentsline {subsection}{Impacto y Beneficio para los Participantes y la Comunidad}{21}{section*.43}%
+\contentsline {subsection}{Presupuesto}{21}{section*.44}%
+\contentsline {subsection}{Cronograma}{22}{section*.45}%
+\contentsline {section}{Resultados}{22}{section*.46}%
+\contentsline {subsection}{Datos sociodemográficos}{22}{section*.47}%
+\contentsline {subsubsection}{Total Escala de Beck}{22}{section*.48}%
+\contentsline {subsubsection}{Total Cuestionario Dieta}{22}{section*.49}%
+\contentsline {subsubsection}{Velocidad de Eritrosedimentación}{22}{section*.50}%
+\contentsline {subsubsection}{Proteína C Reactiva}{23}{section*.51}%
+\contentsline {section}{Discusión de Resultados}{25}{section*.52}%
+\contentsline {subsection}{Resumen de hallazgos principales}{25}{section*.53}%
+\contentsline {subsection}{}{25}{section*.54}%
+\contentsline {subsection}{Interpretación de resultados}{25}{section*.55}%
+\contentsline {subsubsection}{Efecto protector del consumo de frutas}{25}{section*.56}%
+\contentsline {subsubsection}{Impacto negativo de alimentos procesados}{26}{section*.57}%
+\contentsline {subsection}{Comparación con literatura existente}{27}{section*.58}%
+\contentsline {subsection}{Implicaciones}{27}{section*.59}%
+\contentsline {section}{Limitaciones}{28}{section*.60}%
+\contentsline {section}{Recomendaciones para futuras investigaciones}{29}{section*.61}%
+\contentsline {section}{Conclusión}{30}{section*.62}%

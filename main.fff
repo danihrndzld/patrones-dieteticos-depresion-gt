@@ -1,0 +1,26 @@
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[!htbp]
+\centering
+\begin{tabular}{|l|c|}
+\hline
+\textbf{Ítem} & \textbf{Costo (Q)} \\
+\hline
+Curitas & 30 \\
+\hline
+Agujas & 150 \\
+\hline
+Algodón & 20 \\
+\hline
+Alcohol & 20 \\
+\hline
+Gasolina & 200 \\
+\hline
+Luz e internet & 100 \\
+\hline
+\textbf{Total} & \textbf{520} \\
+\hline
+\end{tabular}
+\caption{Presupuesto para el estudio}
+\label{tab:presupuesto}
+\end{figure*}
