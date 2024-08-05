@@ -1,0 +1,17 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is '/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/.texpadtmp/main.blg'
+[48] biber-darwin:340> INFO - === Sun Aug  4, 2024, 10:24:52
+[62] Biber.pm:419> INFO - Reading '/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/.texpadtmp/main.bcf'
+[126] Biber.pm:976> INFO - Using all citekeys in bib section 0
+[141] Biber.pm:4419> INFO - Processing section 0
+[152] Biber.pm:4610> INFO - Looking for bibtex file '/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/camila.tesis.ufm.bib' for section 0
+[154] bibtex.pm:1713> INFO - LaTeX decoding ...
+[183] bibtex.pm:1519> INFO - Found BibTeX data source '/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/camila.tesis.ufm.bib'
+[388] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[388] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[388] Biber.pm:4239> INFO - Sorting list 'nyt/apasortcite//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
+[433] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[433] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[433] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
+[463] bbl.pm:660> INFO - Writing '/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/.texpadtmp/main.bbl' with encoding 'UTF-8'
+[519] bbl.pm:763> INFO - Output to /Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/.texpadtmp/main.bbl

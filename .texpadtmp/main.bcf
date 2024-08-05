@@ -3085,9 +3085,7 @@
     <bcf:citekey order="24" intorder="1">redekerEffectsCognitiveBehavioral2020</bcf:citekey>
     <bcf:citekey order="25" intorder="1">beckDepressionCausesTreatment2009</bcf:citekey>
     <bcf:citekey order="26" intorder="1">Hernandez2018</bcf:citekey>
-    <bcf:citekey order="27" intorder="1">liuFruitVegetableConsumption2016</bcf:citekey>
-    <bcf:citekey order="28" intorder="1">laneUltraProcessedFoodConsumption2022</bcf:citekey>
-    <bcf:citekey order="29" intorder="1" nocite="1">*</bcf:citekey>
+    <bcf:citekey order="27" intorder="1" nocite="1">*</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
