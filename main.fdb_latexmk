@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber main"] 1722901584.06832 "main.bcf" "main.bbl" "main" 1722904141.66097 0
+["biber main"] 1722901584.06832 "main.bcf" "main.bbl" "main" 1722980954.91248 0
   "camila.tesis.ufm.bib" 1722790757.93356 25230 6d678a66b586b7f4a6ba87e0671afd4f ""
-  "main.bcf" 1722904141.54656 134687 5873f41f8379fa2b0880e9aeb8a25e84 "pdflatex"
+  "main.bcf" 1722980954.80142 134687 5873f41f8379fa2b0880e9aeb8a25e84 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1722904139.77806 "/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex" "main.pdf" "main" 1722904141.66126 0
-  "/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex" 1722904097.8328 64225 4452b92652962e9ee97bf2f087661ed9 ""
+["pdflatex"] 1722980953.05712 "/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex" "main.pdf" "main" 1722980954.91277 0
+  "/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex" 1722980946.66025 64238 061f4c85a635c5baa5826e52cec8b506 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm" 1136768653 4524 6bce29db5bc272ba5f332261583fee9c ""
@@ -242,11 +242,11 @@
   "Box_Plot_of_dieta_total.pdf" 1722736578 8121 213fcb5db4e056b3f6ad749e93e3bc0f ""
   "dietGraph.pdf" 1722885703.48591 29290 13f26ccbeddf02155ce90ead22021a07 ""
   "freq.age.pdf" 1722734485.34412 26300 e8a5ab56a433d37c2b5a5dc7130f656e ""
-  "main.aux" 1722904141.54175 19891 ab277db9f58583e362f1071fbb58dafe "pdflatex"
+  "main.aux" 1722980954.79655 19891 ab277db9f58583e362f1071fbb58dafe "pdflatex"
   "main.bbl" 1722901586.98324 161504 e97b83bdc0d7639a3ddf85cdf2480b96 "biber main"
-  "main.out" 1722904141.54554 12739 6ae7aaaa0f5004cda47f3797c9e5ceef "pdflatex"
-  "main.run.xml" 1722904141.54719 2365 05dd432a05276393e0f1cb3699e27c06 "pdflatex"
-  "main.tex" 1722904097.8328 64225 4452b92652962e9ee97bf2f087661ed9 ""
+  "main.out" 1722980954.80043 12739 6ae7aaaa0f5004cda47f3797c9e5ceef "pdflatex"
+  "main.run.xml" 1722980954.80204 2365 05dd432a05276393e0f1cb3699e27c06 "pdflatex"
+  "main.tex" 1722980946.66025 64238 061f4c85a635c5baa5826e52cec8b506 ""
   "sintomasDepresivosBeckGraph.pdf" 1722885723.18863 38672 f37a66bc1ddd8a9cdfefc7c982d2b1bd ""
   (generated)
   "main.aux"
