@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.18)  8 AUG 2024 17:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.18)  8 AUG 2024 18:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1585,7 +1585,7 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'english'.
-LaTeX Font Info:    Trying to load font information for T1+ptm on input line 77
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 73
 .
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/t1ptm.fd
@@ -1593,56 +1593,56 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 77.
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 73.
 LaTeX Font Info:    Trying to load font information for OML+txmi on input line 
-77.
+73.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/txfonts/omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 73.
 LaTeX Font Info:    Trying to load font information for OMS+txsy on input line 
-77.
+73.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/txfonts/omstxsy.fd
 File: omstxsy.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 73.
 LaTeX Font Info:    Trying to load font information for OMX+txex on input line 
-77.
+73.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/txfonts/omxtxex.fd
 File: omxtxex.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 73.
 LaTeX Font Info:    Trying to load font information for U+txexa on input line 7
-7.
+3.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/txfonts/utxexa.fd
 File: utxexa.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 73.
 LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 7
-7.
+3.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    ... okay on input line 73.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/apa7/config/APA7english.txt
 File: APA7english.txt 2020/12/02 v1.02 apa7 configuration for non-American Engl
@@ -1704,7 +1704,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 77.
+Package hyperref Info: Link coloring OFF on input line 73.
 
 (./main.out) (./main.out)
 \@outlinefile=\write5
@@ -1715,19 +1715,19 @@ Package caption Info: float package is loaded.
 Package caption Info: floatrow package is loaded.
 Package caption Info: floatrow package is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Info: Redefining \microtypecontext on input line 77.
-Package microtype Info: Applying patch `item' on input line 77.
-Package microtype Info: Applying patch `toc' on input line 77.
-Package microtype Info: Applying patch `eqnum' on input line 77.
-Package microtype Info: Applying patch `footnote' on input line 77.
-Package microtype Info: Applying patch `verbatim' on input line 77.
+LaTeX Info: Redefining \microtypecontext on input line 73.
+Package microtype Info: Applying patch `item' on input line 73.
+Package microtype Info: Applying patch `toc' on input line 73.
+Package microtype Info: Applying patch `eqnum' on input line 73.
+Package microtype Info: Applying patch `footnote' on input line 73.
+Package microtype Info: Applying patch `verbatim' on input line 73.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 77.
+LaTeX Info: Redefining \showhyphens on input line 73.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1771,175 +1771,115 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
 
 (./main.bbl)
-Package biblatex Info: Reference section=0 on input line 77.
-Package biblatex Info: Reference segment=0 on input line 77.
+Package biblatex Info: Reference section=0 on input line 73.
+Package biblatex Info: Reference segment=0 on input line 73.
 LaTeX Font Info:    Trying to load font information for OT1+txr on input line 7
-8.
+4.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/txfonts/ot1txr.fd
 File: ot1txr.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txmia on input line 7
-8.
+4.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/txfonts/utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txsya on input line 7
-8.
+4.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/txfonts/utxsya.fd
 File: utxsya.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txsyb on input line 7
-8.
+4.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/txfonts/utxsyb.fd
 File: utxsyb.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txsyc on input line 7
-8.
+4.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
-) [1{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr
-/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc}
+)
+Underfull \vbox (badness 1748) has occurred while \output is active []
+
+ [1{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/
+local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc}
 
 
-] [2]
-
-LaTeX Warning: Command \textbeta invalid in math mode on input line 141.
-
-LaTeX Font Info:    Trying to load font information for LGR+ptm on input line 1
-41.
-LaTeX Font Info:    No file LGRptm.fd. on input line 141.
-
-LaTeX Font Warning: Font shape `LGR/ptm/m/n' undefined
-(Font)              using `LGR/cmr/m/n' instead on input line 141.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/mt-cmr.cfg
-File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
-(RS)
-) [3]
-[4] [5] [6]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<freq.age.pdf, id=351, 602.25pt x 372.39125pt>
+] [2] [3] [4] [5]
+<freq.age.pdf, id=307, 602.25pt x 372.39125pt>
 File: freq.age.pdf Graphic file (type pdf)
 <use freq.age.pdf>
-Package pdftex.def Info: freq.age.pdf  used on input line 365.
+Package pdftex.def Info: freq.age.pdf  used on input line 361.
 (pdftex.def)             Requested size: 241.74117pt x 149.47662pt.
-[7 <./freq.age.pdf>]
-<Box_Plot_of_PCR.pdf, id=371, 433.62pt x 722.7pt>
-File: Box_Plot_of_PCR.pdf Graphic file (type pdf)
-<use Box_Plot_of_PCR.pdf>
-Package pdftex.def Info: Box_Plot_of_PCR.pdf  used on input line 411.
-(pdftex.def)             Requested size: 48.3479pt x 80.57793pt.
-<Box_Plot_of_VS.pdf, id=372, 433.62pt x 722.7pt>
-File: Box_Plot_of_VS.pdf Graphic file (type pdf)
-<use Box_Plot_of_VS.pdf>
-Package pdftex.def Info: Box_Plot_of_VS.pdf  used on input line 418.
-(pdftex.def)             Requested size: 48.3479pt x 80.57793pt.
-<Box_Plot_of_dieta_total.pdf, id=373, 433.62pt x 722.7pt>
+
+Underfull \vbox (badness 4779) has occurred while \output is active []
+
+ [6]
+<Box_Plot_of_dieta_total.pdf, id=315, 433.62pt x 722.7pt>
 File: Box_Plot_of_dieta_total.pdf Graphic file (type pdf)
 <use Box_Plot_of_dieta_total.pdf>
-Package pdftex.def Info: Box_Plot_of_dieta_total.pdf  used on input line 427.
+Package pdftex.def Info: Box_Plot_of_dieta_total.pdf  used on input line 401.
 (pdftex.def)             Requested size: 48.3479pt x 80.57793pt.
-<Box_Plot_of_beck_total.pdf, id=374, 433.62pt x 722.7pt>
+<Box_Plot_of_beck_total.pdf, id=316, 433.62pt x 722.7pt>
 File: Box_Plot_of_beck_total.pdf Graphic file (type pdf)
 <use Box_Plot_of_beck_total.pdf>
-Package pdftex.def Info: Box_Plot_of_beck_total.pdf  used on input line 434.
+Package pdftex.def Info: Box_Plot_of_beck_total.pdf  used on input line 408.
 (pdftex.def)             Requested size: 48.3479pt x 80.57793pt.
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 443.
+               Default added (so using `tbp') on input line 421.
 
-[8 <./Box_Plot_of_PCR.pdf> <./Box_Plot_of_VS.pdf> <./Box_Plot_of_dieta_total.pd
-f> <./Box_Plot_of_beck_total.pdf>]
-<sintomasDepresivosBeckGraph.pdf, id=464, 298.2922pt x 204.91747pt>
+[7 <./freq.age.pdf> <./Box_Plot_of_dieta_total.pdf> <./Box_Plot_of_beck_total.p
+df>]
+<sintomasDepresivosBeckGraph.pdf, id=381, 298.2922pt x 204.91747pt>
 File: sintomasDepresivosBeckGraph.pdf Graphic file (type pdf)
 <use sintomasDepresivosBeckGraph.pdf>
-Package pdftex.def Info: sintomasDepresivosBeckGraph.pdf  used on input line 50
-8.
+Package pdftex.def Info: sintomasDepresivosBeckGraph.pdf  used on input line 48
+6.
 (pdftex.def)             Requested size: 234.08252pt x 160.8074pt.
-<dietGraph.pdf, id=465, 392.34167pt x 106.47559pt>
+<dietGraph.pdf, id=382, 392.34167pt x 106.47559pt>
 File: dietGraph.pdf Graphic file (type pdf)
 <use dietGraph.pdf>
-Package pdftex.def Info: dietGraph.pdf  used on input line 517.
+Package pdftex.def Info: dietGraph.pdf  used on input line 495.
 (pdftex.def)             Requested size: 241.74667pt x 65.60637pt.
- [9 <./sintomasDepresivosBeckGraph.pdf> <./dietGraph.pdf
+ [8 <./sintomasDepresivosBeckGraph.pdf> <./dietGraph.pdf
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./dietGraph.pdf): PDF inclus
 ion: multiple pdfs with page group included in a single page
->] [10] [11]
-[leftcolumn badness]: 1000000 on 9.5pt
-[rightcolumn badness]: 1000000 on 9.5pt
-[leftcolumn badness]: 1000000 on 9.5pt
-[rightcolumn badness]: 1000000 on 9.5pt
-[leftcolumn badness]: 1000000 on 9.5pt
-[rightcolumn badness]: 1000000 on 9.5pt
-[leftcolumn badness]: 1000000 on 9.5pt
-[rightcolumn badness]: 1000000 on 9.5pt
-[leftcolumn badness]: 1000000 on 9.5pt
-[rightcolumn badness]: 1000000 on 9.5pt
-[leftcolumn badness]: 1000000 on 9.5pt
-[rightcolumn badness]: 1000000 on 9.5pt
-[leftcolumn badness]: 1000000 on 9.5pt
-[rightcolumn badness]: 1000000 on 9.5pt
-[leftcolumn badness]: 1000000 on 9.5pt
-[rightcolumn badness]: 1000000 on 9.5pt
-[leftcolumn badness]: 1000000 on 9.5pt
-[rightcolumn badness]: 1000000 on 9.5pt
-[leftcolumn badness]: 1000000 on 9.5pt
-[rightcolumn badness]: 1000000 on 9.5pt
-[leftcolumn badness]: 1000000 on 9.5pt
-[rightcolumn badness]: 1000000 on 9.5pt
-[leftcolumn badness]: 1000000 on 9.5pt
-[rightcolumn badness]: 1000000 on 9.5pt
-[leftcolumn badness]: 1000000 on 9.5pt
-[rightcolumn badness]: 1000000 on 9.5pt
-[leftcolumn badness]: 1000000 on 9.5pt
-[rightcolumn badness]: 1000000 on 9.5pt
-[leftcolumn badness]: 1000000 on 9.5pt
-[rightcolumn badness]: 1000000 on 9.5pt
-[leftcolumn badness]: 1000000 on 9.5pt
-[rightcolumn badness]: 1000000 on 9.5pt
-[leftcolumn badness]: 1000000 on 9.5pt
-[rightcolumn badness]: 1000000 on 9.5pt
+>] [9] [10]
 - LAST -
-Extra skip:34.05505pt
-Left:598.0pt/0.21997pt
-Right:562.0pt/2.16492pt
-Split: 598.0pt
-Output:598.0pt
+Extra skip:0.0pt
+Left:622.0pt/2.16492pt
+Right:622.0pt/2.16492pt
+Split: 623.0pt
+Output:623.0pt
 Pageshrink: 5.0pt
 Pagestretch: 3.0pt
 @colht:643.20255pt
-FLUSHEND [output]: 598.0pt
-FLUSHEND [leftcolumn badness]: 0
+FLUSHEND [output]: 623.0pt
+FLUSHEND [leftcolumn badness]: 10000
 FUSHEND [rightcolumn badness]: 10000
- [12] (./main.aux)
+ [11] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 7967A69ABEDF2830F1E7812F00637CFA;11613.
+(rerunfilecheck)             Checksum: F536E903D722FB542904A21BB78B1986;10976.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 38131 strings out of 474116
- 713509 string characters out of 5743682
- 1975187 words of memory out of 5000000
- 59411 multiletter control sequences out of 15000+600000
- 646354 words of font info for 393 fonts, out of 8000000 for 9000
+ 37998 strings out of 474116
+ 711003 string characters out of 5743682
+ 1970187 words of memory out of 5000000
+ 59288 multiletter control sequences out of 15000+600000
+ 645695 words of font info for 391 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,12n,107p,2823b,5050s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></us
@@ -1949,10 +1889,10 @@ e/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2024/tex
 mf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2024/texmf-dist/f
 onts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1
 /urw/times/utmri8a.pfb>
-Output written on main.pdf (12 pages, 254583 bytes).
+Output written on main.pdf (11 pages, 236539 bytes).
 PDF statistics:
- 658 PDF objects out of 1000 (max. 8388607)
- 541 compressed objects within 6 object streams
- 144 named destinations out of 1000 (max. 500000)
- 92704 words of extra memory for PDF output out of 106986 (max. 10000000)
+ 582 PDF objects out of 1000 (max. 8388607)
+ 497 compressed objects within 5 object streams
+ 137 named destinations out of 1000 (max. 500000)
+ 92670 words of extra memory for PDF output out of 106986 (max. 10000000)
 
