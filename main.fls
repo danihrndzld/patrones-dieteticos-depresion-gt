@@ -230,6 +230,8 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/sttools/flushend.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tools/ftnright.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tools/ftnright.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tools/ftnright.sty
+INPUT ./jobname.bib
+INPUT jobname.bib
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/txfonts/t1txr.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/txfonts/t1txr.fd

@@ -83,7 +83,7 @@
       <file>main.bcf</file>
     </requires>
     <requires type="editable">
-      <file>camila.tesis.ufm.bib</file>
+      <file>jobname.bib</file>
     </requires>
   </external>
 </requests>
