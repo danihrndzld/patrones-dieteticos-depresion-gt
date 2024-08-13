@@ -6,6 +6,23 @@
 \usepackage[utf8]{inputenc}
 \usepackage[english]{babel}
 
+% Bibliography management with APA style
+\usepackage[style=apa,sortcites=true,sorting=nyt,backend=biber]{biblatex}
+\DeclareLanguageMapping{english}{english-apa}
+\addbibresource{camila.tesis.ufm.bib}
+
+\usepackage{makecell}
+\usepackage{tikz}
+\usepackage{pgf-umlsd}
+\usetikzlibrary{shapes.geometric, arrows}
+
+% Define custom styles
+\tikzstyle{startstop} = [rectangle, rounded corners, minimum width=3cm, minimum height=1cm, text centered, draw=black, fill=red!30]
+\tikzstyle{process} = [rectangle, minimum width=3cm, minimum height=1cm, text centered, draw=black, fill=orange!30]
+\tikzstyle{arrow} = [thick, ->, >=stealth]
+
+
+
 % Package for graphics and custom commands for images
 \usepackage{graphicx}
 \usepackage{floatrow} % Enhanced control over figure and table placements
@@ -34,10 +51,6 @@
 % Hyperlinks and citations management
 \usepackage{hyperref} % Always load after other packages
 
-% Bibliography management with APA style
-\usepackage[style=apa,sortcites=true,sorting=nyt,backend=biber]{biblatex}
-\DeclareLanguageMapping{english}{english-apa}
-\addbibresource{camila.tesis.ufm.bib}
 
 % Quotation package
 \usepackage{csquotes}
@@ -50,11 +63,21 @@
 	\addORCIDlink{Camila Heredia, M.D.}{0009-0008-9550-9083} and \addORCIDlink{Lic. María Andrée Neumann}{0009-0001-2531-6058}
 }
 
-\affiliation{Graduate School, Universidad Francisco Marroquín}
+\authorsaffiliations{Graduate School, Universidad Francisco Marroquín}
 
 \leftheader{Heredia, Neumann}
 
-\abstract{This study examines the relationship between diet and depression in young Guatemalan women. Using a quantitative, non-experimental, cross-sectional correlational design, a sample of $30$ participants was analyzed through the Beck Depression Inventory and a dietary questionnaire. The results revealed significant correlations between dietary patterns and depressive symptoms. A strong negative association was found between fruit consumption and symptoms such as loss of pleasure $(r = -0.49, p = 0.006)$ and suicidal thoughts $(r = -0.48, p = 0.007)$. Processed food consumption was positively correlated with symptoms such as pessimism and loss of interest. The findings suggest a potential protective effect of a fruit-rich diet against depression. The study highlights the importance of considering dietary interventions in the prevention and treatment of depression in young women.}
+\abstract{
+\textbf{Objective:} This study examines the relationship between dietary patterns and depressive symptoms in young Guatemalan women, aiming to identify specific correlations between food consumption and mood.
+
+\textbf{Methods:} Using a quantitative, non-experimental, cross-sectional correlational design, we analyzed a sample of 30 young women (aged 25-30) in Guatemala City. Participants completed the Beck Depression Inventory and a dietary questionnaire. Correlation and regression analyses were performed to assess relationships between dietary habits and depressive symptoms.
+
+\textbf{Results:} Significant correlations were found between dietary patterns and depressive symptoms. Fruit consumption showed strong negative associations with loss of pleasure ($r = -0.49$, $p = 0.006$) and suicidal thoughts ($r = -0.48$, $p = 0.007$). Processed food consumption positively correlated with symptoms such as pessimism and loss of interest. The diet questionnaire demonstrated good internal consistency (Cronbach's $\alpha = 0.741$, McDonald's $\omega = 0.904$).
+
+\textbf{Conclusions:} Findings suggest a potential protective effect of a fruit-rich diet against depression in young Guatemalan women. The study highlights the importance of considering dietary interventions in the prevention and treatment of depression in this population. Further research is needed to establish causal relationships and explore the effectiveness of specific dietary interventions.
+}
+
+\keywords{depression, diet, young women, Guatemala, Beck Depression Inventory}
 
 \keywords{Keywords: Beck, mood, nutrition}
 
@@ -187,14 +210,36 @@ The total score was obtained by summing each of the items, with 0 being the mini
 
 The population of this research consisted of a homogeneous sample of 30 young women residing in Guatemala City. Thirty women were chosen because it was assumed that this sample would achieve normality \parencite{Hernandez2018}. The participants were selected to provide a representative perspective on the interactions between diet and mood.
 
+The CONSORT flow diagram (Figure \ref{fig:consort}) illustrates the participant selection process. Initially, 65 individuals were assessed for eligibility. The inclusion criteria were: (1) women, (2) aged 25-30 years, (3) residing in Guatemala City, and (4) willingness to participate in the study. After screening, 30 participants met all criteria and were enrolled in the study. 35 participants were excluded due to not meeting the inclusion criteria, declining to participate, or other reasons. All 30 enrolled participants completed the study and were included in the final analysis.
 
-The study considered the following inclusion criteria:
-\begin{enumerate}
-	\item Women
-	\item Aged 25 to 30 years
-	\item Residing in Guatemala City
-	\item Willingness to participate in the study
-\end{enumerate}
+\begin{figure}[!ht]
+    \centering
+    \resizebox{0.8\columnwidth}{!}{%
+        \begin{tikzpicture}[
+            node distance=0.1\columnwidth,
+            every node/.style={font=\small},
+            startstop/.style={rectangle, rounded corners, minimum width=0.4\columnwidth, minimum height=0.1\columnwidth, text centered, draw=black, fill=red!30},
+            process/.style={rectangle, minimum width=0.4\columnwidth, minimum height=0.15\columnwidth, text centered, draw=black, fill=orange!30},
+            arrow/.style={thick, ->, >=stealth}
+        ]
+        \node (start) [startstop] {\makecell{Assessed for eligibility\\(n = 65)}};
+        \node (criteria) [process, below of=start, yshift=-0.2\columnwidth] {\makecell[l]{Inclusion Criteria:\\1. Women\\2. Aged 25-30 years\\3. Residing in Guatemala City\\4. Willing to participate}};
+        \node (enrolled) [process, below of=criteria, yshift=-0.15\columnwidth] {\makecell{Enrolled in the study\\(n = 30)}};
+        \node (excluded) [process, right of=enrolled, xshift=0.45\columnwidth] {\makecell[l]{Excluded (n = 35):\\- Not meeting inclusion criteria\\- Declined to participate\\- Other reasons}};
+        \node (analyzed) [process, below of=enrolled, yshift=-0.1\columnwidth] {\makecell{Analyzed\\(n = 30)}};
+        
+        \draw [arrow] (start) -- (criteria);
+        \draw [arrow] (criteria) -- node[anchor=west, font=\footnotesize] {Met criteria} (enrolled);
+        \draw [arrow] (criteria) -| ([yshift=15pt]excluded.north) node[anchor=north, font=\footnotesize] {Did not meet criteria};
+        \draw [arrow] (enrolled) -- (analyzed);
+        
+        \end{tikzpicture}
+    }
+    \caption{CONSORT flow diagram of participant selection}
+    \label{fig:consort}
+\end{figure}
+
+
 
 Additionally, the following exclusion criteria were identified: a) Women with chronic illnesses b) Women with autoimmune diseases c) Pregnant women, to avoid any influence of these conditions on the study results. Clarifying these exclusions, participants were warned that if they did not meet the exclusions, the researchers would not be held responsible, as they signed and read the informed consent. This sample and population selection methodology ensured that the research was accurate, relevant, and replicable.
 
@@ -210,9 +255,7 @@ This is a categorical variable designed to assess the dietary habits of the part
 
 \section{Hypothesis}\label{hipuxf3tesis}
 
-There is a significant bidirectional relationship between diet and depression, which influences mood and overall well-being.
-
-Based on a comprehensive review of the literature and understanding of the interactions between diet and mood, the following hypothesis is proposed: ``There is a statistically significant bidirectional relationship between diet and depression, which influences overall well-being.'' This hypothesis is based on the premise that dietary patterns do indeed contribute to mood disturbances and, in turn, influence overall mental and physical health, being bidirectional, the reverse is also true. The confirmation or refutation of this hypothesis will provide valuable information on how these factors interact and influence each other.
+This study hypothesizes that there is a statistically significant bidirectional relationship between diet and depression, influencing both mood and overall well-being. This hypothesis posits that dietary patterns contribute to mood disturbances, which in turn affect mental and physical health, and that mood disturbances may also influence dietary choices. Confirmation or refutation of this hypothesis will provide insights into the interaction between diet and depression.
 
 \section{Data Collection Procedure}\label{procedimiento-para-recolecciuxf3n-de-datos}
 
@@ -227,7 +270,7 @@ The research data were grouped based on diet and mood scale. A scale was used to
 
 \subsection{Statistical Analysis and Data Processing}
 
-Statistical analysis and data processing formed the backbone of this research; because by providing the necessary quantitative foundation, it was possible to evaluate the hypothesis and conclude. Below is a detailed account of the methodological approach and the various statistical techniques used to explore and understand the interrelationships between the study variables. Through a rigorous and systematic process, it was proposed to discover statistically significant patterns, trends, and correlations that shed light on the complex dynamics between diet and mood.
+For this study, we established a significance level ($\alpha$) of 0.05, corresponding to a 95\% confidence interval. This means that p-values less than 0.05 will be considered statistically significant. We chose this conventional level of significance to balance the risks of Type I and Type II errors. The 95\% confidence interval provides a range of values that we can be 95\% certain contains the true population parameter. This approach allows us to make inferences about the population based on our sample data with a known level of confidence.
 
 
 \subsection{Description and Justification of Methods and Analysis Techniques}\label{descripciuxf3n-y-justificaciuxf3n-de-muxe9todos-y-tuxe9cnicas-de-anuxe1lisis}
@@ -295,7 +338,7 @@ The potential impact and benefits of the research for both the participants and 
 
 \subsection{Budget}\label{presupuesto}
 
-\begin{table}[H]
+\begin{table}[!ht]
 	\centering
 	\begin{tabular}{>{\bfseries}l c}
 		\toprule
@@ -327,7 +370,7 @@ The budget will be covered by the principal investigators.
 
 \subsection{Timeline}\label{cronograma}
 
-\begin{table}[h!]
+\begin{table}[!ht!]
 	\centering
 	\begin{tabular}{@{}ll@{}}
 		\toprule
@@ -344,14 +387,14 @@ The budget will be covered by the principal investigators.
 
 \subsection{Sociodemographic Data}
 
-\begin{figure}[H]
+\begin{figure}[!ht]
 	\centering
 	\includegraphicsmax{freq.age.pdf}
 	\caption{Age Frequency}
 	\label{fig:Figure1}
 \end{figure}
 
-\begin{table}[H]
+\begin{table}[!ht]
 	\centering
 	\resizebox{0.8\columnwidth}{!}{
 		\begin{tabular}{@{}rrrr@{}}
@@ -382,7 +425,7 @@ The score on the Beck scale shows a non-normal distribution with a right skew. T
 The distribution of diet scores is normal and has negative values, which are allowed by the questionnaire. The median is higher than the mean, indicating a slight tendency towards higher values.
 
 
-\begin{figure}[H]
+\begin{figure}[!ht]
 	\centering
 	\begin{subfigure}[b]{\subfigwidth}
 		\centering
@@ -406,7 +449,7 @@ The distribution of diet scores is normal and has negative values, which are all
 % Please add the following required packages to your document preamble:
 % \usepackage{booktabs}
 % \usepackage{graphicx}
-\begin{table}[]
+\begin{table}[!ht]
 	\resizebox{\columnwidth}{!}{%
 		\begin{tabular}{@{}llrr@{}}
 			\toprule
@@ -469,7 +512,7 @@ Both values indicate good internal consistency, although McDonald's $\omega$ is 
 
 
 \subsection{Beck Depressive Symptoms}
-\begin{figure}[H]
+\begin{figure}[!ht]
 	\centering
 	\includegraphicsmax{sintomasDepresivosBeckGraph.pdf}
 	\caption{Heat Map: Depressive Symptoms}
@@ -478,7 +521,7 @@ Both values indicate good internal consistency, although McDonald's $\omega$ is 
 \vspace{-1em} % Adjust vertical space
 
 \subsection{Dietary Habits of Young Guatemalan Women}
-\begin{figure}[H]
+\begin{figure}[!ht]
 	\centering
 	\includegraphicsmax{dietGraph.pdf}
 	\caption{Heat Map: Dietary Questionnaire}
