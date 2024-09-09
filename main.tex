@@ -753,41 +753,37 @@
 	\label{fig:BoxPlots}
 \end{figure}
 
-	\begin{table}[]
-		\resizebox{0.8\columnwidth}{!}{%
-			\begin{tabular}{@{}rllrr@{}}
-				\toprule
-				\multicolumn{1}{l}{} & Variable \#1                  & Variable \#2               & \multicolumn{1}{l}{Correlation} & \multicolumn{1}{l}{P\_Value} \\ \midrule
-				3                    & beck\_loss\_of\_pleasure     & diet\_fruit               & -0.489                          & 0.006                        \\
-				7                    & beck\_suicidal\_thoughts     & diet\_fruit               & -0.480                          & 0.007                        \\
-				1                    & beck\_pessimism              & diet\_sugar               & 0.432                           & 0.017                        \\
-				21                   & beck\_pessimism              & age                       & -0.424                          & 0.019                        \\
-				13                   & beck\_loss\_of\_interest     & diet\_soft\_drinks        & 0.418                           & 0.021                        \\
-				24                   & diet\_red\_meat              & blood\_pressure           & -0.415                          & 0.022                        \\
-				20                   & beck\_difficulty\_concentrating & diet\_flour            & 0.414                           & 0.023                        \\
-				0                    & beck\_pessimism              & diet\_red\_meat           & 0.407                           & 0.026                        \\
-				10                   & beck\_agitation              & diet\_ginger              & -0.404                          & 0.027                        \\
-				2                    & beck\_failure                & diet\_olive\_oil          & 0.404                           & 0.027                        \\
-				4                    & beck\_punishment             & diet\_fruit               & -0.398                          & 0.030                        \\
-				8                    & beck\_crying                 & diet\_vegetables          & 0.396                           & 0.030                        \\
-				6                    & beck\_dissatisfaction        & diet\_fruit               & -0.391                          & 0.033                        \\
-				15                   & beck\_irritability           & diet\_red\_meat           & 0.388                           & 0.034                        \\
-				16                   & beck\_irritability           & diet\_sugar               & 0.378                           & 0.039                        \\
-				12                   & beck\_loss\_of\_interest     & diet\_flour               & 0.378                           & 0.040                        \\
-				19                   & beck\_difficulty\_concentrating & diet\_nuts             & 0.376                           & 0.040                        \\
-				17                   & beck\_irritability           & total\_diet               & -0.372                          & 0.043                        \\
-				14                   & beck\_indecision             & diet\_soft\_drinks        & 0.372                           & 0.043                        \\
-				25                   & diet\_flour                  & age                       & -0.367                          & 0.046                        \\
-				9                    & beck\_agitation              & diet\_alcohol             & 0.366                           & 0.047                        \\
-				11                   & beck\_loss\_of\_interest     & diet\_fruit               & -0.365                          & 0.047                        \\
-				23                   & beck\_self\_disesteem        & age                       & -0.360                          & 0.050                        \\
-				18                   & beck\_appetite\_changes      & diet\_soft\_drinks        & 0.354                           & 0.055                        \\
-				22                   & beck\_indecision             & CRP (C-reactive protein)  & 0.351                           & 0.057                        \\
-				5                    & beck\_punishment             & total\_diet               & -0.351                          & 0.057                        \\ \bottomrule
-			\end{tabular}%
-		}
-		\caption{Tabla de Correlaciones}
-		\label{tab:tableOfCorr}
+	% Please add the following required packages to your document preamble:
+% \usepackage{booktabs}
+% \usepackage{graphicx}
+\begin{table}[H]
+	% \resizebox{\textwidth}{!}{%
+	\begin{tabular}{@{}llll@{}}
+	\toprule
+	\textbf{Variable 1}      & \textbf{Variable 2}      & \textbf{$R^2$}       & \textbf{Valor P} \\ \midrule
+	consumo de fruta         & pérdida de placer        & -0.488897            & 0.006   \\
+	consumo de fruta         & pensamientos suicida     & -0.480279            & 0.007   \\
+	consumo de azúcar        & pesimismo                & 0.432226             & 0.017   \\
+	consumo de gaseosas      & pérdida de interés       & 0.418097             & 0.021   \\
+	consumo de harina        & dificultad concentración & 0.413595             & 0.023   \\
+	consumo de carne roja    & pesimismo                & 0.407187             & 0.026   \\
+	consumo de jengibre      & agitación                & -0.403648            & 0.027   \\
+	consumo de fruta         & sensación de castigo     & -0.397679            & 0.030   \\
+	consumo de fruta         & disconformidad           & -0.390977            & 0.033   \\
+	consumo de carne roja    & irritabilidad            & 0.388368             & 0.034   \\
+	consumo de azúcar        & irritabilidad            & 0.377928             & 0.039   \\
+	consumo de harina        & pérdida de interés       & 0.377707             & 0.040   \\
+	total cuestionario dieta & irritabilidad            & -0.372452            & 0.043   \\
+	consumo de gaseosas      & indecisión               & 0.371774             & 0.043   \\
+	consumo de alcohol       & agitación                & 0.365651             & 0.047   \\
+	consumo de fruta         & pérdida de interés       & -0.365214            & 0.047   \\
+	consumo de gaseosas      & cambios de apetito       & 0.353747             & 0.055   \\
+	PCR                      & indecisión               & 0.351487             & 0.057   \\
+	total cuestionario dieta & sensación de castigo     & -0.351071            & 0.057   \\ \bottomrule
+	\end{tabular}%
+	% }
+	\caption{Cuadro de Correlaciones}
+	\label{tab:tableOfCorr}
 	\end{table}
 
 

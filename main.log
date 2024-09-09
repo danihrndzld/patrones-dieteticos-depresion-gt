@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.18)  26 AUG 2024 18:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.18)  9 SEP 2024 15:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1505,27 +1505,25 @@ Package pdftex.def Info: Box_Plot_of_beck_total.pdf  used on input line 747.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [20]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 756.
-
-[21 <./Box_Plot_of_PCR.pdf> <./Box_Plot_of_VS.pdf> <./Box_Plot_of_dieta_total.pdf> <./Box_Plot_of_beck_total.pdf>] [22] [23]
+ [21 <./Box_Plot_of_PCR.pdf> <./Box_Plot_of_VS.pdf> <./Box_Plot_of_dieta_total.pdf> <./Box_Plot_of_beck_total.pdf>] [22] [23]
 <sintomasDepresivosBeckGraph.pdf, id=530, 298.2922pt x 204.91747pt>
 File: sintomasDepresivosBeckGraph.pdf Graphic file (type pdf)
 <use sintomasDepresivosBeckGraph.pdf>
-Package pdftex.def Info: sintomasDepresivosBeckGraph.pdf  used on input line 871.
+Package pdftex.def Info: sintomasDepresivosBeckGraph.pdf  used on input line 867.
 (pdftex.def)             Requested size: 236.71332pt x 162.61469pt.
 <dietGraph.pdf, id=531, 392.34167pt x 106.47559pt>
 File: dietGraph.pdf Graphic file (type pdf)
 <use dietGraph.pdf>
-Package pdftex.def Info: dietGraph.pdf  used on input line 880.
+Package pdftex.def Info: dietGraph.pdf  used on input line 876.
 (pdftex.def)             Requested size: 469.78394pt x 127.49222pt.
- [24 <./sintomasDepresivosBeckGraph.pdf> <./dietGraph.pdf
 
-pdfTeX warning: pdflatex (file ./dietGraph.pdf): PDF inclusion: multiple pdfs with page group included in a single page
->] [25] [26] [27] [28] [29] [30] [31
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-] [32] [33] AED endfloat: Processing end Figures and Tables [34] (./main.aux
+ [24 <./sintomasDepresivosBeckGraph.pdf>] [25 <./dietGraph.pdf>] [26] [27] [28] [29] [30] [31] [32
+
+] [33] [34] AED endfloat: Processing end Figures and Tables [35] (./main.aux
 LaTeX Info: Redefining \sptext on input line 12.
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
@@ -1545,18 +1543,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36885 strings out of 474116
- 698821 string characters out of 5743682
- 1941187 words of memory out of 5000000
+ 36886 strings out of 474116
+ 698828 string characters out of 5743682
+ 1938187 words of memory out of 5000000
  58426 multiletter control sequences out of 15000+600000
  609022 words of font info for 147 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,12n,107p,2886b,2815s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (34 pages, 303051 bytes).
+Output written on main.pdf (35 pages, 302881 bytes).
 PDF statistics:
- 747 PDF objects out of 1000 (max. 8388607)
- 607 compressed objects within 7 object streams
- 168 named destinations out of 1000 (max. 500000)
+ 753 PDF objects out of 1000 (max. 8388607)
+ 612 compressed objects within 7 object streams
+ 169 named destinations out of 1000 (max. 500000)
  32288 words of extra memory for PDF output out of 35830 (max. 10000000)
 
