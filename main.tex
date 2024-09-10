@@ -795,45 +795,34 @@ The distribution of diet scores is normal and has negative values, which are all
 	\label{fig:BoxPlots}
 \end{figure}
 
-
-% Please add the following required packages to your document preamble:
-% \usepackage{booktabs}
-% \usepackage{graphicx}
-\begin{table}[!ht]
-	\resizebox{\columnwidth}{!}{%
-		\begin{tabular}{@{}llrr@{}}
-			\toprule
-			\textbf{Variable \#1}           & \textbf{Variable \#2} & \multicolumn{1}{l}{\textbf{R$^2$}} & \multicolumn{1}{l}{\textbf{P\_Value}} \\ \midrule
-			beck\_loss\_of\_pleasure        & diet\_fruit           & -0.489                                   & 0.006                                 \\
-			beck\_suicidal\_thoughts        & diet\_fruit           & -0.480                                   & 0.007                                 \\
-			beck\_pessimism                 & diet\_sugar           & 0.432                                    & 0.017                                 \\
-			beck\_pessimism                 & age                   & -0.424                                   & 0.019                                 \\
-			beck\_loss\_of\_interest        & diet\_soft\_drinks    & 0.418                                    & 0.021                                 \\
-			diet\_red\_meat                 & blood\_pressure       & -0.415                                   & 0.022                                 \\
-			beck\_difficulty\_concentrating & diet\_flour           & 0.414                                    & 0.023                                 \\
-			beck\_pessimism                 & diet\_red\_meat       & 0.407                                    & 0.026                                 \\
-			beck\_agitation                 & diet\_ginger          & -0.404                                   & 0.027                                 \\
-			beck\_failure                   & diet\_olive\_oil      & 0.404                                    & 0.027                                 \\
-			beck\_punishment                & diet\_fruit           & -0.398                                   & 0.030                                 \\
-			beck\_crying                    & diet\_vegetables      & 0.396                                    & 0.030                                 \\
-			beck\_dissatisfaction           & diet\_fruit           & -0.391                                   & 0.033                                 \\
-			beck\_irritability              & diet\_red\_meat       & 0.388                                    & 0.034                                 \\
-			beck\_irritability              & diet\_sugar           & 0.378                                    & 0.039                                 \\
-			beck\_loss\_of\_interest        & diet\_flour           & 0.378                                    & 0.040                                 \\
-			beck\_difficulty\_concentrating & diet\_nuts            & 0.376                                    & 0.040                                 \\
-			beck\_irritability              & total\_diet           & -0.372                                   & 0.043                                 \\
-			beck\_indecision                & diet\_soft\_drinks    & 0.372                                    & 0.043                                 \\
-			diet\_flour                     & age                   & -0.367                                   & 0.046                                 \\
-			beck\_agitation                 & diet\_alcohol         & 0.366                                    & 0.047                                 \\
-			beck\_loss\_of\_interest        & diet\_fruit           & -0.365                                   & 0.047                                 \\
-			beck\_self\_disesteem           & age                   & -0.360                                   & 0.050                                 \\
-			beck\_appetite\_changes         & diet\_soft\_drinks    & 0.354                                    & 0.055                                 \\
-			beck\_punishment                & total\_diet           & -0.351                                   & 0.057                                 \\ \bottomrule
-		\end{tabular}%
-	}
-	\caption{Correlation Table}
-	\label{tab:tableOfCorr}
+\begin{table}[H]
+   \centering
+   \begin{tabular}{@{}llll@{}}
+       \toprule
+       \textbf{Variable 1}         & \textbf{Variable 2}         & \textbf{$R^2$}     & \textbf{P Value} \\ \midrule
+       fruit consumption           & loss of pleasure            & -0.488897          & 0.006            \\
+       fruit consumption           & suicidal thoughts           & -0.480279          & 0.007            \\
+       sugar consumption           & pessimism                   & 0.432226           & 0.017            \\
+       soda consumption            & loss of interest            & 0.418097           & 0.021            \\
+       flour consumption           & concentration difficulty    & 0.413595           & 0.023            \\
+       red meat consumption        & pessimism                   & 0.407187           & 0.026            \\
+       ginger consumption          & agitation                   & -0.403648          & 0.027            \\
+       fruit consumption           & punishment feeling          & -0.397679          & 0.030            \\
+       fruit consumption           & dissatisfaction             & -0.390977          & 0.033            \\
+       red meat consumption        & irritability                & 0.388368           & 0.034            \\
+       sugar consumption           & irritability                & 0.377928           & 0.039            \\
+       flour consumption           & loss of interest            & 0.377707           & 0.040            \\
+       total diet questionnaire    & irritability                & -0.372452          & 0.043            \\
+       soda consumption            & indecision                  & 0.371774           & 0.043            \\
+       alcohol consumption         & agitation                   & 0.365651           & 0.047            \\
+       fruit consumption           & loss of interest            & -0.365214          & 0.047            \\
+       soda consumption            & appetite changes            & 0.353747           & 0.055            \\
+       total diet questionnaire    & punishment feeling          & -0.351071          & 0.057            \\ \bottomrule
+   \end{tabular}
+   \caption{Correlation Table}
+   \label{tab:tableOfCorr}
 \end{table}
+
 
 
 
