@@ -94,7 +94,65 @@
       \field{title}{Depression: Causes and Treatment}
       \field{year}{2009}
       \field{dateera}{ce}
+      \true{nocite}
       \keyw{Depression Mental,Depressive Disorder}
+    \endentry
+    \entry{beckBeckDepressionInventory2011}{dataset}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=3e27196ce0920b340361adf6d96db620}{%
+           family={Beck},
+           familyi={B\bibinitperiod},
+           given={Aaron\bibnamedelima T.},
+           giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ae14b42e52d4b7bb39ae7922397f13f}{%
+           family={Steer},
+           familyi={S\bibinitperiod},
+           given={R.\bibnamedelimi A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=43b5d7ad4710e3c7cff0d446d0b6de7f}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{bed6e79b55a6ee825ea6bde6b020177d}
+      \strng{fullhash}{23a84ef733fde6039b071efbbdcd8bf2}
+      \strng{bibnamehash}{23a84ef733fde6039b071efbbdcd8bf2}
+      \strng{authorbibnamehash}{23a84ef733fde6039b071efbbdcd8bf2}
+      \strng{authornamehash}{bed6e79b55a6ee825ea6bde6b020177d}
+      \strng{authorfullhash}{23a84ef733fde6039b071efbbdcd8bf2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{12}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{title}{Beck {{Depression Inventory}}–{{II}}}
+      \field{urlday}{10}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1037/t00742-000
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.apa.org/doi/10.1037/t00742-000
+      \endverb
+      \verb{url}
+      \verb https://doi.apa.org/doi/10.1037/t00742-000
+      \endverb
     \endentry
     \entry{Bloch1983}{article}{}
       \name{author}{2}{}{%
@@ -287,6 +345,7 @@
       \field{title}{Dictionary}
       \field{year}{2023}
       \field{dateera}{ce}
+      \true{nocite}
       \verb{urlraw}
       \verb https://www.thefreedictionary.com/dictionary
       \endverb
@@ -814,6 +873,7 @@
       \field{volume}{6}
       \field{year}{1979}
       \field{dateera}{ce}
+      \true{nocite}
       \field{pages}{249}
       \range{pages}{1}
       \verb{eprint}
@@ -1718,6 +1778,7 @@
       \field{volume}{17}
       \field{year}{2022}
       \field{dateera}{ce}
+      \true{nocite}
     \endentry
     \entry{Yldrm2012DentalPS}{article}{}
       \name{author}{1}{}{%
@@ -1830,7 +1891,65 @@
       \field{title}{Depression: Causes and Treatment}
       \field{year}{2009}
       \field{dateera}{ce}
+      \true{nocite}
       \keyw{Depression Mental,Depressive Disorder}
+    \endentry
+    \entry{beckBeckDepressionInventory2011}{dataset}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=3e27196ce0920b340361adf6d96db620}{%
+           family={Beck},
+           familyi={B\bibinitperiod},
+           given={Aaron\bibnamedelima T.},
+           giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ae14b42e52d4b7bb39ae7922397f13f}{%
+           family={Steer},
+           familyi={S\bibinitperiod},
+           given={R.\bibnamedelimi A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=43b5d7ad4710e3c7cff0d446d0b6de7f}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{bed6e79b55a6ee825ea6bde6b020177d}
+      \strng{fullhash}{23a84ef733fde6039b071efbbdcd8bf2}
+      \strng{bibnamehash}{23a84ef733fde6039b071efbbdcd8bf2}
+      \strng{authorbibnamehash}{23a84ef733fde6039b071efbbdcd8bf2}
+      \strng{authornamehash}{bed6e79b55a6ee825ea6bde6b020177d}
+      \strng{authorfullhash}{23a84ef733fde6039b071efbbdcd8bf2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{12}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{title}{Beck {{Depression Inventory}}–{{II}}}
+      \field{urlday}{10}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1037/t00742-000
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.apa.org/doi/10.1037/t00742-000
+      \endverb
+      \verb{url}
+      \verb https://doi.apa.org/doi/10.1037/t00742-000
+      \endverb
     \endentry
     \entry{Bloch1983}{article}{}
       \name{author}{2}{}{%
@@ -2023,6 +2142,7 @@
       \field{title}{Dictionary}
       \field{year}{2023}
       \field{dateera}{ce}
+      \true{nocite}
       \verb{urlraw}
       \verb https://www.thefreedictionary.com/dictionary
       \endverb
@@ -2550,6 +2670,7 @@
       \field{volume}{6}
       \field{year}{1979}
       \field{dateera}{ce}
+      \true{nocite}
       \field{pages}{249}
       \range{pages}{1}
       \verb{eprint}
@@ -3454,6 +3575,7 @@
       \field{volume}{17}
       \field{year}{2022}
       \field{dateera}{ce}
+      \true{nocite}
     \endentry
     \entry{Yldrm2012DentalPS}{article}{}
       \name{author}{1}{}{%
