@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.18)  12 AUG 2024 20:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.18)  10 SEP 2024 10:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1614,38 +1614,28 @@ Package pdftex.def Info: Box_Plot_of_beck_total.pdf  used on input line 789.
 <sintomasDepresivosBeckGraph.pdf, id=403, 298.2922pt x 204.91747pt>
 File: sintomasDepresivosBeckGraph.pdf Graphic file (type pdf)
 <use sintomasDepresivosBeckGraph.pdf>
-Package pdftex.def Info: sintomasDepresivosBeckGraph.pdf  used on input line 867.
+Package pdftex.def Info: sintomasDepresivosBeckGraph.pdf  used on input line 858.
 (pdftex.def)             Requested size: 234.08252pt x 160.8074pt.
 <dietGraph.pdf, id=404, 392.34167pt x 106.47559pt>
 File: dietGraph.pdf Graphic file (type pdf)
 <use dietGraph.pdf>
-Package pdftex.def Info: dietGraph.pdf  used on input line 876.
+Package pdftex.def Info: dietGraph.pdf  used on input line 867.
 (pdftex.def)             Requested size: 241.74667pt x 65.60637pt.
  [8 <./sintomasDepresivosBeckGraph.pdf> <./dietGraph.pdf
 
 pdfTeX warning: pdflatex (file ./dietGraph.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >] [9] [10]
-[leftcolumn badness]: 1000000 on 35.74493pt
-[rightcolumn badness]: 1000000 on 35.74493pt
-[leftcolumn badness]: 1000000 on 35.74493pt
-[rightcolumn badness]: 1000000 on 35.74493pt
-[leftcolumn badness]: 1000000 on 35.74493pt
-[rightcolumn badness]: 1000000 on 35.74493pt
-[leftcolumn badness]: 1000000 on 35.74493pt
-[rightcolumn badness]: 1000000 on 35.74493pt
-[leftcolumn badness]: 1000000 on 35.74493pt
-[rightcolumn badness]: 1000000 on 35.74493pt
 - LAST -
-Extra skip:11.71007pt
-Left:310.0pt/1.49998pt
-Right:298.0pt/1.78992pt
-Split: 310.0pt
-Output:310.0pt
+Extra skip:0.375pt
+Left:262.0pt/2.16492pt
+Right:262.0pt/1.78992pt
+Split: 263.0pt
+Output:263.0pt
 Pageshrink: 0.0pt
 Pagestretch: 0.0pt
 @colht:643.20255pt
-FLUSHEND [output]: 310.0pt
-FLUSHEND [leftcolumn badness]: 0
+FLUSHEND [output]: 263.0pt
+FLUSHEND [leftcolumn badness]: 10000
 FUSHEND [rightcolumn badness]: 10000
  [11] (./main.aux)
  ***********
@@ -1659,15 +1649,15 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 39378 strings out of 474116
- 743020 string characters out of 5743682
- 1953187 words of memory out of 5000000
- 60660 multiletter control sequences out of 15000+600000
+ 39381 strings out of 474116
+ 743072 string characters out of 5743682
+ 1951187 words of memory out of 5000000
+ 60663 multiletter control sequences out of 15000+600000
  647620 words of font info for 387 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,13n,107p,3191b,5050s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (11 pages, 233993 bytes).
+Output written on main.pdf (11 pages, 233691 bytes).
 PDF statistics:
  567 PDF objects out of 1000 (max. 8388607)
  466 compressed objects within 5 object streams

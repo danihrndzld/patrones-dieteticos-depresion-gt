@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber main"] 1723517859.93657 "main.bcf" "main.bbl" "main" 1723517865.4816 0
-  "jobname.bib" 1723517484.32972 25175 fb39a74d4f0dc2e95922318f459610fd ""
-  "main.bcf" 1723517865.36691 133439 e1158548d24cec4fd1f8d3eb4e8ffe36 "pdflatex"
+["biber main"] 1725987190.26977 "main.bcf" "main.bbl" "main" 1725987224.23167 0
+  "jobname.bib" 1725987142.15413 25175 fb39a74d4f0dc2e95922318f459610fd ""
+  "main.bcf" 1725987224.09127 133439 e1158548d24cec4fd1f8d3eb4e8ffe36 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1723517863.82225 "/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex" "main.pdf" "main" 1723517865.48192 0
-  "/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex" 1723517860.14306 80266 b7ed11c4ee1eafcb594eaede0e225d2a ""
+["pdflatex"] 1725987222.11488 "/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex" "main.pdf" "main" 1725987224.23196 0
+  "/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex" 1725987191.91113 78469 83c4d363c6f83ce08de8363608bb80a0 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm" 1136768653 4524 6bce29db5bc272ba5f332261583fee9c ""
@@ -249,12 +249,12 @@
   "Box_Plot_of_dieta_total.pdf" 1722736578 8121 213fcb5db4e056b3f6ad749e93e3bc0f ""
   "dietGraph.pdf" 1722885703.48591 29290 13f26ccbeddf02155ce90ead22021a07 ""
   "freq.age.pdf" 1722734485.34412 26300 e8a5ab56a433d37c2b5a5dc7130f656e ""
-  "jobname.bib" 1723517484.32972 25175 fb39a74d4f0dc2e95922318f459610fd ""
-  "main.aux" 1723517865.36345 15283 560f6cdeafa9134ddc3837a303135d02 "pdflatex"
-  "main.bbl" 1723517862.13642 77392 f83d53f78fbee34e0dbcd7df9e57665c "biber main"
-  "main.out" 1723517865.3659 10976 768d7c46404bb11e1a45b9061ad9cf4b "pdflatex"
-  "main.run.xml" 1723517865.36775 2424 b5ed7f97adc9aa9b77c516cd9b796568 "pdflatex"
-  "main.tex" 1723517860.14306 80266 b7ed11c4ee1eafcb594eaede0e225d2a ""
+  "jobname.bib" 1725987142.15413 25175 fb39a74d4f0dc2e95922318f459610fd ""
+  "main.aux" 1725987224.08705 15283 c406d46933af05089decb19f7c337c1e "pdflatex"
+  "main.bbl" 1725987192.67152 77392 f83d53f78fbee34e0dbcd7df9e57665c "biber main"
+  "main.out" 1725987224.08999 10976 768d7c46404bb11e1a45b9061ad9cf4b "pdflatex"
+  "main.run.xml" 1725987224.092 2424 b5ed7f97adc9aa9b77c516cd9b796568 "pdflatex"
+  "main.tex" 1725987191.91113 78469 83c4d363c6f83ce08de8363608bb80a0 ""
   "sintomasDepresivosBeckGraph.pdf" 1722885723.18863 38672 f37a66bc1ddd8a9cdfefc7c982d2b1bd ""
   (generated)
   "main.aux"
