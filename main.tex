@@ -1,8 +1,11 @@
 \PassOptionsToPackage{hidelinks}{hyperref}
 
 
-\documentclass[stu]{apa7}
+
+\documentclass[stu, 12pt]{apa7}
 \usepackage{orcidlink} % Include this for ORCID links
+
+\geometry{margin=1in}
 
 
 \usepackage{graphicx}
@@ -10,7 +13,6 @@
 \newcommand{\includegraphicsmax}[2][]{%
 	\includegraphics[width=\textwidth,height=0.25\textheight,keepaspectratio,#1]{#2}%
 }
-
 
 % Define parameters for subfigure size and vertical space
 \newcommand{\subfigwidth}{0.2\textwidth}
@@ -39,7 +41,7 @@
 \usepackage{microtype}
 
 \title{Patrones Dietéticos y Síntomas Depresivos en Mujeres Jóvenes Guatemaltecas: Un Análisis de Correlaciones Específicas}
-\shorttitle{Dieta y Síntomas Depresivos en Mujeres Guatemaltecas}
+% \shorttitle{Dieta y Síntomas Depresivos en Mujeres Guatemaltecas}
 
 \author{
 	\href{https://orcid.org/0009-0008-9550-9083}{Dra. Camila Heredia \orcidlink{0009-0008-9550-9083}} 
@@ -47,10 +49,14 @@
     \href{https://orcid.org/0009-0001-2531-6058}{Licda. María Andrée Neumann \orcidlink{0009-0001-2531-6058}}
 	}
 
+\duedate{\vspace{-1.7cm}Guatemala, agosto del 2024}     % Non-breaking space
+\course{~}      % Non-breaking space
+\professor{~}   % Non-breaking space
+
 
 \authorsaffiliations{Escuela de Posgrado, Universidad Francisco Marroquín}
 
-\leftheader{Heredia, Neumann}
+% \leftheader{Heredia, Neumann}
 
 \abstract{Este estudio examina la relación entre marcadores inflamatorios, dieta y
 	depresión en mujeres jóvenes guatemaltecas. Utilizando un diseño
@@ -83,12 +89,16 @@
 \usepackage{times}
 
 \begin{document}
-	\maketitle
+
+\maketitle
+
+% Add a new line here
 
 	%	\tableofcontents
 
 
-	\section{Marco contextual}\label{marco-contextual}
+	\section{Marco teórico}\label{marco-teorico}
+	\subsection{Marco contextual}\label{marco-contextual}
 
 	La investigación se llevó a cabo en mujeres jóvenes en la Ciudad de
 	Guatemala. La elección de tomar muestras en las clínicas Salud UFM y
@@ -233,7 +243,7 @@
 	grado. A pesar de la heterogeneidad entre estudios, los análisis de
 	sensibilidad confirmaron una prevalencia similar. Notablemente, al
 	comparar pacientes con depresión con controles no deprimidos, aquellos
-	con depresión tuvieron 1.46 veces mayor probabilidad de presentar
+	con depresión tuvieron $1.46$ veces mayor probabilidad de presentar
 	inflamación de bajo grado. Estos hallazgos sugieren una relevancia
 	significativa de la inflamación en un amplio segmento de pacientes con
 	depresión \parencite{Osimo2019}.
@@ -381,10 +391,7 @@
 
 	% 4
 	
-	El cuestionario de dieta que
-	desarrollamos es confiable para su uso en investigaciones y aplicaciones
-	prácticas, dado que ambas métricas de fiabilidad superan los umbrales
-	generalmente aceptados. \\
+	El cuestionario de dieta que desarrollamos es confiable para su uso en investigaciones y aplicaciones prácticas, dado que ambas métricas de fiabilidad superan los umbrales generalmente aceptados. \\
 
 	\subsubsection{Escala de Depresión de Beck}
 	Este instrumento validado y ampliamente reconocido y utilizado, fue aplicado para medir la severidad de los síntomas depresivos de las participantes. Esta escala facilitó una evaluación cuantitativa y comparativa de los estados anímicos, permitiendo así correlacionar estos datos con los hábitos dietéticos y marcadores inflamatorios. Este cuestionario consta de 21 grupos de afirmaciones.\\
@@ -669,16 +676,16 @@
 			\begin{tabular}{@{}rrrrr@{}}
 				\toprule
 				\textbf{Estadístico}             & \textbf{Total de Beck} & \textbf{Total de Dieta} & \textbf{VS} & \textbf{PCR} \\ \midrule
-				\textbf{N}                       & 30.00                  & 30.00                   & 30.00       & 30.00        \\
-				\textbf{Media}                   & 19.00                  & 4.77                    & 10.27       & 2.56         \\
-				\textbf{Mediana}                 & 17.00                  & 6.00                    & 9.00        & 1.45         \\
-				\textbf{Desviación estándar}     & 9.28                   & 9.58                    & 6.58        & 2.52         \\
-				\textbf{Mínimo}                  & 7.00                   & -17.00                  & 1.00        & 0.00         \\
-				\textbf{Máximo}                  & 42.00                  & 21.00                   & 26.00       & 7.60         \\
-				\textbf{Asimetría}               & 0.97                   & -0.22                   & 0.81        & 0.79         \\
-				\textbf{Curtosis}                & 0.14                   & -0.60                   & 0.36        & -0.89        \\
-				\textbf{W de Shapiro-Wilk}       & 0.90                   & 0.97                    & 0.93        & 0.83         \\
-				\textbf{Valor p de Shapiro-Wilk} & 0.01                   & 0.63                    & 0.06        & 0.00         \\ \bottomrule
+				\textbf{N}                       & $30.00$                  & $30.00$                   & $30.00$       & $30.00$        \\
+				\textbf{Media}                   & $19.00$                  & $4.77$                    & $10.27$       & $2.56$         \\
+				\textbf{Mediana}                 & $17.00$                  & $6.00$                    & $9.00$        & $1.45$         \\
+				\textbf{Desviación estándar}     & $9.28$                   & $9.58$                    & $6.58$        & $2.52$         \\
+				\textbf{Mínimo}                  & $7.00$                   & $-17.00$                  & $1.00$        & $0.00$         \\
+				\textbf{Máximo}                  & $42.00$                  & $21.00$                   & $26.00$       & $7.60$         \\
+				\textbf{Asimetría}               & $0.97$                   & $-0.22$                   & $0.81$        & $0.79$         \\
+				\textbf{Curtosis}                & $0.14$                   & $-0.60$                   & $0.36$        & $-0.89$        \\
+				\textbf{W de Shapiro-Wilk}       & $0.90$                   & $0.97$                    & $0.93$        & $0.83$         \\
+				\textbf{Valor p de Shapiro-Wilk} & $0.01$                   & $0.63$                    & $0.06$        & $0.00$         \\ \bottomrule
 			\end{tabular}
 		}
 
@@ -744,25 +751,25 @@
 	\begin{tabular}{@{}llll@{}}
 	\toprule
 	\textbf{Variable 1}      & \textbf{Variable 2}      & \textbf{$R^2$}       & \textbf{Valor P} \\ \midrule
-	consumo de fruta         & pérdida de placer        & -0.488897            & 0.006   \\
-	consumo de fruta         & pensamientos suicida     & -0.480279            & 0.007   \\
-	consumo de azúcar        & pesimismo                & 0.432226             & 0.017   \\
-	consumo de gaseosas      & pérdida de interés       & 0.418097             & 0.021   \\
-	consumo de harina        & dificultad concentración & 0.413595             & 0.023   \\
-	consumo de carne roja    & pesimismo                & 0.407187             & 0.026   \\
-	consumo de jengibre      & agitación                & -0.403648            & 0.027   \\
-	consumo de fruta         & sensación de castigo     & -0.397679            & 0.030   \\
-	consumo de fruta         & disconformidad           & -0.390977            & 0.033   \\
-	consumo de carne roja    & irritabilidad            & 0.388368             & 0.034   \\
-	consumo de azúcar        & irritabilidad            & 0.377928             & 0.039   \\
-	consumo de harina        & pérdida de interés       & 0.377707             & 0.040   \\
-	total cuestionario dieta & irritabilidad            & -0.372452            & 0.043   \\
-	consumo de gaseosas      & indecisión               & 0.371774             & 0.043   \\
-	consumo de alcohol       & agitación                & 0.365651             & 0.047   \\
-	consumo de fruta         & pérdida de interés       & -0.365214            & 0.047   \\
-	consumo de gaseosas      & cambios de apetito       & 0.353747             & 0.055   \\
-	PCR                      & indecisión               & 0.351487             & 0.057   \\
-	total cuestionario dieta & sensación de castigo     & -0.351071            & 0.057   \\ \bottomrule
+		consumo de fruta         & pérdida de placer        & $-0.488897$            & $0.006$   \\
+		consumo de fruta         & pensamientos suicida     & $-0.480279$            & $0.007$   \\
+		consumo de azúcar        & pesimismo                & $0.432226$             & $0.017$   \\
+		consumo de gaseosas      & pérdida de interés       & $0.418097$             & $0.021$   \\
+		consumo de harina        & dificultad concentración & $0.413595$             & $0.023$   \\
+		consumo de carne roja    & pesimismo                & $0.407187$             & $0.026$   \\
+		consumo de jengibre      & agitación                & $-0.403648$            & $0.027$   \\
+		consumo de fruta         & sensación de castigo     & $-0.397679$            & $0.030$   \\
+		consumo de fruta         & disconformidad           & $-0.390977$            & $0.033$   \\
+		consumo de carne roja    & irritabilidad            & $0.388368$             & $0.034$   \\
+		consumo de azúcar        & irritabilidad            & $0.377928$             & $0.039$   \\
+		consumo de harina        & pérdida de interés       & $0.377707$             & $0.040$   \\
+		total cuestionario dieta & irritabilidad            & $-0.372452$            & $0.043$   \\
+		consumo de gaseosas      & indecisión               & $0.371774$             & $0.043$   \\
+		consumo de alcohol       & agitación                & $0.365651$             & $0.047$   \\
+		consumo de fruta         & pérdida de interés       & $-0.365214$            & $0.047$   \\
+		consumo de gaseosas      & cambios de apetito       & $0.353747$             & $0.055$   \\
+		PCR                      & indecisión               & $0.351487$             & $0.057$   \\
+		total cuestionario dieta & sensación de castigo     & $-0.351071$            & $0.057$   \\ \bottomrule
 	\end{tabular}%
 	% }
 	\caption{Cuadro de Correlaciones}
