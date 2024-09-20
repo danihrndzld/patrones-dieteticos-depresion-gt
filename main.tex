@@ -201,11 +201,11 @@ The CONSORT flow diagram (Figure \ref{fig:consort}) illustrates the participant 
             process/.style={rectangle, minimum width=0.4\columnwidth, minimum height=0.15\columnwidth, text centered, draw=black, fill=orange!30},
             arrow/.style={thick, ->, >=stealth}
         ]
-        \node (start) [startstop] {\makecell{Assessed for eligibility(n = 65)}};
+        \node (start) [startstop] {\makecell{Assessed for eligibility\\(n = 65)}};
         \node (criteria) [process, below of=start, yshift=-0.2\columnwidth] {\makecell[l]{Inclusion Criteria:\\1. Women\\2. Aged 25-30 years\\3. Residing in Guatemala City\\4. Willing to participate}};
         \node (enrolled) [process, below of=criteria, yshift=-0.15\columnwidth] {\makecell{Enrolled in the study(n = 30)}};
         \node (excluded) [process, right of=enrolled, xshift=0.45\columnwidth] {\makecell[l]{Excluded (n = 35):\\- Not meeting inclusion criteria\\- Declined to participate\\- Other reasons}};
-        \node (analyzed) [process, below of=enrolled, yshift=-0.1\columnwidth] {\makecell{Analyzed(n = 30)}};
+        \node (analyzed) [process, below of=enrolled, yshift=-0.1\columnwidth] {\makecell{Analyzed\\(n = 30)}};
         
         \draw [arrow] (start) -- (criteria);
         \draw [arrow] (criteria) -- node[anchor=west, font=\footnotesize] {Met criteria} (enrolled);
