@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber main"] 1726794253.86577 "main.bcf" "main.bbl" "main" 1726794483.42663 0
+["biber main"] 1726794253.86577 "main.bcf" "main.bbl" "main" 1726794544.02774 0
   "camila.tesis.ufm.bib" 1726792224.39269 25593 1412d979b4b9d26dd6e735831909ff32 ""
   "main.bcf" 0 -1 0 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1726794482.07456 "/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex" "main.pdf" "main" 1726794483.4267 2
-  "/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex" 1726794480.28066 47702 7053ef0f7c6a75172968ae16850c91cc ""
+["pdflatex"] 1726794542.55477 "/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex" "main.pdf" "main" 1726794544.02782 2
+  "/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex" 1726794540.81131 46640 900c1308e7b84f586b6d66f729646b19 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm" 1136768653 4524 6bce29db5bc272ba5f332261583fee9c ""
@@ -239,9 +239,9 @@
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1710779325 8221435 188c4e2ed680a0ed121a57050d8142c6 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
   "freq.age.pdf" 1722734485.34412 26300 e8a5ab56a433d37c2b5a5dc7130f656e ""
-  "main.aux" 1726794483.29991 5119 0423fc7db4645f6099b5063f14e3d04c "pdflatex"
+  "main.aux" 1726794543.87934 5119 0423fc7db4645f6099b5063f14e3d04c "pdflatex"
   "main.bbl" 0 -1 0 "biber main"
-  "main.tex" 1726794480.28066 47702 7053ef0f7c6a75172968ae16850c91cc ""
+  "main.tex" 1726794540.81131 46640 900c1308e7b84f586b6d66f729646b19 ""
   (generated)
   "main.aux"
   "main.bcf"

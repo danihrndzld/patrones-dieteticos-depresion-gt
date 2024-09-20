@@ -350,6 +350,9 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/t1ptm.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/t1ptm.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/t1ptm.fd
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm
+INPUT ./main.aux
+INPUT ./main.aux
+INPUT main.aux
 OUTPUT main.aux
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/txfonts/omltxmi.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/txfonts/omltxmi.fd
