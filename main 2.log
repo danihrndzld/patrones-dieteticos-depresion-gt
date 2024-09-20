@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.18)  19 SEP 2024 19:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.18)  19 SEP 2024 19:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1606,33 +1606,33 @@ LaTeX Warning: Citation 'Farre2020' on page 2 undefined on input line 139.
 
 [2]
 
-LaTeX Warning: Citation 'beckBeckDepressionInventory2011' on page 3 undefined on input line 203.
+LaTeX Warning: Citation 'beckBeckDepressionInventory2011' on page 3 undefined on input line 204.
 
 
-LaTeX Warning: Citation 'Hernandez2018' on page 3 undefined on input line 208.
+LaTeX Warning: Citation 'Hernandez2018' on page 3 undefined on input line 211.
 
 
-LaTeX Warning: Reference `fig:consort' on page 3 undefined on input line 210.
+LaTeX Warning: Reference `fig:consort' on page 3 undefined on input line 213.
 
 [3] [4]
 <freq.age.pdf, id=92, 602.25pt x 372.39125pt>
 File: freq.age.pdf Graphic file (type pdf)
 <use freq.age.pdf>
-Package pdftex.def Info: freq.age.pdf  used on input line 329.
+Package pdftex.def Info: freq.age.pdf  used on input line 332.
 (pdftex.def)             Requested size: 241.74117pt x 149.47662pt.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \noalign.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \noalign.
 \midrule ->\noalign 
                     {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global \@...
-l.351 	}
+l.354 	}
         
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing } inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing } inserted.
 <inserted text> 
                 }
-l.351 	}
+l.354 	}
         
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1640,10 +1640,10 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \endgroup inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \endgroup inserted.
 <inserted text> 
                 \endgroup 
-l.351 	}
+l.354 	}
         
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1651,10 +1651,10 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing } inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing } inserted.
 <inserted text> 
                 }
-l.351 	}
+l.354 	}
         
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1662,17 +1662,17 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing } inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing } inserted.
 <inserted text> 
                 }
-l.351 	}
+l.354 	}
         
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1680,17 +1680,17 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -1698,17 +1698,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -1716,17 +1716,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -1734,17 +1734,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -1752,17 +1752,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -1770,17 +1770,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -1788,17 +1788,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -1806,17 +1806,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -1824,17 +1824,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -1842,17 +1842,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -1860,17 +1860,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -1878,17 +1878,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -1896,17 +1896,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -1914,17 +1914,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -1932,17 +1932,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -1950,17 +1950,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -1968,17 +1968,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -1986,17 +1986,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -2004,17 +2004,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -2022,17 +2022,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -2040,17 +2040,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -2058,17 +2058,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -2076,17 +2076,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -2094,17 +2094,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -2112,17 +2112,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -2130,17 +2130,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -2148,17 +2148,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -2166,17 +2166,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -2184,17 +2184,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -2202,17 +2202,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -2220,17 +2220,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -2238,17 +2238,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -2256,17 +2256,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -2274,17 +2274,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -2292,17 +2292,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -2310,17 +2310,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -2328,17 +2328,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -2346,17 +2346,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -2364,17 +2364,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -2382,17 +2382,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -2400,17 +2400,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -2418,17 +2418,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -2436,17 +2436,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -2454,17 +2454,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -2472,17 +2472,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -2490,17 +2490,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -2508,17 +2508,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Missing \cr inserted.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.351 	}
+l.354 	}
         
 I'm guessing that you meant to end an alignment here.
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351: Misplaced \cr.
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354: Misplaced \cr.
 <inserted text> \cr 
                     
-l.351 	}
+l.354 	}
         
 (That makes 100 errors; please try again.) 
 Here is how much of TeX's memory you used:
@@ -2530,4 +2530,4 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  99i,13n,107p,1192b,5050s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:351:  ==> Fatal error occurred, no output PDF file produced!
+/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:354:  ==> Fatal error occurred, no output PDF file produced!

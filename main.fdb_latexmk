@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber main"] 1726792370.09304 "main.bcf" "main.bbl" "main" 1726794031.17817 0
+["biber main"] 1726794253.86577 "main.bcf" "main.bbl" "main" 1726794483.42663 0
   "camila.tesis.ufm.bib" 1726792224.39269 25593 1412d979b4b9d26dd6e735831909ff32 ""
-  "main.bcf" 1726794031.06348 133178 4f9feb56f4dc942b9831703c6fd5d4fc "pdflatex"
+  "main.bcf" 0 -1 0 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1726794029.63993 "/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex" "main.pdf" "main" 1726794031.17848 0
-  "/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex" 1726794026.44092 49164 8c95d99b6e7603ea6563febff40f6c2e ""
+["pdflatex"] 1726794482.07456 "/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex" "main.pdf" "main" 1726794483.4267 2
+  "/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex" 1726794480.28066 47702 7053ef0f7c6a75172968ae16850c91cc ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm" 1136768653 4524 6bce29db5bc272ba5f332261583fee9c ""
@@ -38,13 +38,6 @@
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/txfonts/txsya.tfm" 1136768653 972 2c9ffac4bbd20f91c01aaef9bf3f8710 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/txfonts/txsyb.tfm" 1136768653 988 098ca7e8cc5647b9ac21b82dbdce1f01 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/txfonts/txsyc.tfm" 1136768653 1084 75e807e9e71f7a312e4e1187dce5e93b ""
-  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb" 1232065820 13806 49b888f4605a088e66b9eb4fee320a6e ""
-  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb" 1136849748 6339 e2b78706efdc360ee6aec9b6e20211a7 ""
-  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/txfonts/txsy.pfb" 1136849748 20336 69267d8a81bca8b24c9b42694a4a28f9 ""
-  "/usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb" 1136849748 44729 811d6c62865936705a31c797a1d5dada ""
-  "/usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb" 1136849748 44656 0cbca70e0534538582128f6b54593cca ""
-  "/usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb" 1136849748 46026 6dab18b61c907687b520c72847215a68 ""
-  "/usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb" 1136849748 45458 a3faba884469519614ca56ba5f6b1de1 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmb8t.vf" 1136768653 2340 df9c920cc5688ebbf16a93f45ce7bdd3 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmbi8t.vf" 1136768653 2324 51908dae6e03953a90119973962f0e4d ""
   "/usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmr8t.vf" 1136768653 2348 91706c542228501c410c266421fbe30c ""
@@ -245,21 +238,14 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1710779333.64343 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1710779325 8221435 188c4e2ed680a0ed121a57050d8142c6 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "Box_Plot_of_beck_total.pdf" 1722736577 8939 26d61e4872a9cb137b0f7bdca9329e31 ""
-  "Box_Plot_of_dieta_total.pdf" 1722736578 8121 213fcb5db4e056b3f6ad749e93e3bc0f ""
-  "dietGraph.pdf" 1722885703.48591 29290 13f26ccbeddf02155ce90ead22021a07 ""
   "freq.age.pdf" 1722734485.34412 26300 e8a5ab56a433d37c2b5a5dc7130f656e ""
-  "main.aux" 1726794031.06038 12905 7967020f2a56b73a33976598d88485e5 "pdflatex"
-  "main.bbl" 1726792387.26311 38870 544ddaf1c7ed0564897f164261659147 "biber main"
-  "main.out" 1726794031.0623 9862 8342baf14d61b96178f2a5e0292d07d5 "pdflatex"
-  "main.run.xml" 1726794031.06412 2433 b6044347901a8aa7c66463afba0c6fc8 "pdflatex"
-  "main.tex" 1726794026.44092 49164 8c95d99b6e7603ea6563febff40f6c2e ""
-  "sintomasDepresivosBeckGraph.pdf" 1722885723.18863 38672 f37a66bc1ddd8a9cdfefc7c982d2b1bd ""
+  "main.aux" 1726794483.29991 5119 0423fc7db4645f6099b5063f14e3d04c "pdflatex"
+  "main.bbl" 0 -1 0 "biber main"
+  "main.tex" 1726794480.28066 47702 7053ef0f7c6a75172968ae16850c91cc ""
   (generated)
   "main.aux"
   "main.bcf"
   "main.log"
   "main.out"
   "main.pdf"
-  "main.run.xml"
   (rewritten before read)
