@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.18)  19 SEP 2024 18:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.18)  19 SEP 2024 19:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1592,104 +1592,83 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc}
 
 
-] [2] [3] [4] [5]
-<freq.age.pdf, id=309, 602.25pt x 372.39125pt>
+] [2] [3] [4]
+<freq.age.pdf, id=289, 602.25pt x 372.39125pt>
 File: freq.age.pdf Graphic file (type pdf)
 <use freq.age.pdf>
-Package pdftex.def Info: freq.age.pdf  used on input line 390.
+Package pdftex.def Info: freq.age.pdf  used on input line 334.
 (pdftex.def)             Requested size: 241.74117pt x 149.47662pt.
-<Box_Plot_of_dieta_total.pdf, id=310, 433.62pt x 722.7pt>
+ [5]
+<Box_Plot_of_dieta_total.pdf, id=294, 433.62pt x 722.7pt>
 File: Box_Plot_of_dieta_total.pdf Graphic file (type pdf)
 <use Box_Plot_of_dieta_total.pdf>
-Package pdftex.def Info: Box_Plot_of_dieta_total.pdf  used on input line 430.
+Package pdftex.def Info: Box_Plot_of_dieta_total.pdf  used on input line 375.
 (pdftex.def)             Requested size: 48.3479pt x 80.57793pt.
-<Box_Plot_of_beck_total.pdf, id=311, 433.62pt x 722.7pt>
+<Box_Plot_of_beck_total.pdf, id=295, 433.62pt x 722.7pt>
 File: Box_Plot_of_beck_total.pdf Graphic file (type pdf)
 <use Box_Plot_of_beck_total.pdf>
-Package pdftex.def Info: Box_Plot_of_beck_total.pdf  used on input line 437.
+Package pdftex.def Info: Box_Plot_of_beck_total.pdf  used on input line 382.
 (pdftex.def)             Requested size: 48.3479pt x 80.57793pt.
 
-Underfull \vbox (badness 1292) has occurred while \output is active []
+Underfull \vbox (badness 1394) has occurred while \output is active []
 
  [6 <./freq.age.pdf> <./Box_Plot_of_dieta_total.pdf> <./Box_Plot_of_beck_total.pdf>]
-<sintomasDepresivosBeckGraph.pdf, id=377, 298.2922pt x 204.91747pt>
+<sintomasDepresivosBeckGraph.pdf, id=360, 298.2922pt x 204.91747pt>
 File: sintomasDepresivosBeckGraph.pdf Graphic file (type pdf)
 <use sintomasDepresivosBeckGraph.pdf>
-Package pdftex.def Info: sintomasDepresivosBeckGraph.pdf  used on input line 506.
+Package pdftex.def Info: sintomasDepresivosBeckGraph.pdf  used on input line 441.
 (pdftex.def)             Requested size: 234.08252pt x 160.8074pt.
-<dietGraph.pdf, id=378, 392.34167pt x 106.47559pt>
+<dietGraph.pdf, id=361, 392.34167pt x 106.47559pt>
 File: dietGraph.pdf Graphic file (type pdf)
 <use dietGraph.pdf>
-Package pdftex.def Info: dietGraph.pdf  used on input line 515.
+Package pdftex.def Info: dietGraph.pdf  used on input line 450.
 (pdftex.def)             Requested size: 241.74667pt x 65.60637pt.
+ [7 <./sintomasDepresivosBeckGraph.pdf> <./dietGraph.pdf
 
-Overfull \hbox (241.74324pt too wide) has occurred while \output is active
-[] | []
- []
-
-[7 <./sintomasDepresivosBeckGraph.pdf>] [8 <./dietGraph.pdf>] [9]
-[leftcolumn badness]: 1000000 on 18.1131pt
-[rightcolumn badness]: 1000000 on 18.1131pt
-[leftcolumn badness]: 1000000 on 18.1131pt
-[rightcolumn badness]: 1000000 on 18.1131pt
-[leftcolumn badness]: 1000000 on 18.1131pt
-[rightcolumn badness]: 1000000 on 18.1131pt
-[leftcolumn badness]: 1000000 on 18.1131pt
-[rightcolumn badness]: 1000000 on 18.1131pt
-[leftcolumn badness]: 1000000 on 18.1131pt
-[rightcolumn badness]: 1000000 on 18.1131pt
-[leftcolumn badness]: 1000000 on 18.1131pt
-[rightcolumn badness]: 1000000 on 18.1131pt
-[leftcolumn badness]: 1000000 on 18.1131pt
-[rightcolumn badness]: 1000000 on 18.1131pt
-[leftcolumn badness]: 1000000 on 18.1131pt
-[rightcolumn badness]: 1000000 on 18.1131pt
-[leftcolumn badness]: 1000000 on 18.1131pt
-[rightcolumn badness]: 1000000 on 18.1131pt
-[leftcolumn badness]: 1000000 on 18.1131pt
-[rightcolumn badness]: 1000000 on 18.1131pt
-[leftcolumn badness]: 1000000 on 18.1131pt
-[rightcolumn badness]: 1000000 on 18.1131pt
-[leftcolumn badness]: 1000000 on 18.1131pt
-[rightcolumn badness]: 1000000 on 18.1131pt
-[leftcolumn badness]: 1000000 on 18.1131pt
-[rightcolumn badness]: 1000000 on 18.1131pt
+pdfTeX warning: pdflatex (file ./dietGraph.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>] [8]
+[leftcolumn badness]: 1000000 on 6.37683pt
+[rightcolumn badness]: 1000000 on 6.37683pt
+[leftcolumn badness]: 1000000 on 6.37683pt
+[rightcolumn badness]: 1000000 on 6.37683pt
+[leftcolumn badness]: 1000000 on 6.37683pt
+[rightcolumn badness]: 1000000 on 6.37683pt
 - LAST -
-Extra skip:29.8869pt
-Left:279.22197pt/2.16492pt
-Right:250.0pt/1.49998pt
-Split: 278.61098pt
-Output:278.61098pt
-Pageshrink: 0.0pt
-Pagestretch: 0.0pt
+Extra skip:0.0pt
+Left:461.6802pt/2.16492pt
+Right:471.22197pt/1.49998pt
+Split: 470.45108pt
+Output:470.45108pt
+Pageshrink: 5.0pt
+Pagestretch: 3.0pt
 @colht:643.20255pt
-FLUSHEND [output]: 278.61098pt
-FLUSHEND [leftcolumn badness]: 10
-FUSHEND [rightcolumn badness]: 10000
- [10] (./main.aux)
+FLUSHEND [output]: 470.45108pt
+FLUSHEND [leftcolumn badness]: 1
+FUSHEND [rightcolumn badness]: 21
+ [9] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 7BED1AC302952EE2B20F13C7A4B9B099;10399.
+(rerunfilecheck)             Checksum: 8342BAF14D61B96178F2A5E0292D07D5;9862.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 39312 strings out of 474116
- 741022 string characters out of 5743682
- 1952187 words of memory out of 5000000
- 60613 multiletter control sequences out of 15000+600000
- 646752 words of font info for 381 fonts, out of 8000000 for 9000
+ 39300 strings out of 474116
+ 740847 string characters out of 5743682
+ 1959187 words of memory out of 5000000
+ 60604 multiletter control sequences out of 15000+600000
+ 647182 words of font info for 389 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,13n,107p,1749b,5050s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,13n,107p,1738b,5050s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (10 pages, 228317 bytes).
+Output written on main.pdf (9 pages, 226648 bytes).
 PDF statistics:
- 538 PDF objects out of 1000 (max. 8388607)
- 438 compressed objects within 5 object streams
- 111 named destinations out of 1000 (max. 500000)
- 96838 words of extra memory for PDF output out of 106986 (max. 10000000)
+ 507 PDF objects out of 1000 (max. 8388607)
+ 408 compressed objects within 5 object streams
+ 98 named destinations out of 1000 (max. 500000)
+ 96806 words of extra memory for PDF output out of 106986 (max. 10000000)
 

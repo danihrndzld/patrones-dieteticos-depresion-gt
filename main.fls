@@ -567,6 +567,9 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/txfonts/rtxptmri.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/txfonts/txr.vf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/txfonts/rtxptmr.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/txfonts/rtxr.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/txfonts/txr.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/txfonts/rtxptmr.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/txfonts/rtxr.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmri8t.vf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm
 INPUT ./freq.age.pdf
@@ -594,9 +597,6 @@ INPUT ./dietGraph.pdf
 INPUT ./dietGraph.pdf
 INPUT ./dietGraph.pdf
 INPUT ./dietGraph.pdf
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/txfonts/txr.vf
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/txfonts/rtxptmr.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/txfonts/rtxr.tfm
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out

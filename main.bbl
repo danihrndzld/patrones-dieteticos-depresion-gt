@@ -52,49 +52,62 @@
       \field{year}{2014}
       \field{dateera}{ce}
     \endentry
-    \entry{beckDepressionCausesTreatment2009}{book}{}
-      \name{author}{2}{}{%
+    \entry{beckBeckDepressionInventory2011}{dataset}{}
+      \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=3e27196ce0920b340361adf6d96db620}{%
            family={Beck},
            familyi={B\bibinitperiod},
            given={Aaron\bibnamedelima T.},
            giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=cacd35543c803109c24eeb5a279c6d1a}{%
-           family={Alford},
-           familyi={A\bibinitperiod},
-           given={Brad\bibnamedelima A.},
-           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+        {{un=0,uniquepart=base,hash=2ae14b42e52d4b7bb39ae7922397f13f}{%
+           family={Steer},
+           familyi={S\bibinitperiod},
+           given={R.\bibnamedelimi A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=43b5d7ad4710e3c7cff0d446d0b6de7f}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
            givenun=0}}%
       }
-      \list{location}{1}{%
-        {Philadelphia}%
-      }
       \list{publisher}{1}{%
-        {University of Pennsylvania Press}%
+        {American Psychological Association}%
       }
-      \strng{namehash}{37025fcc0e6189d9d14bf4b81ff8a782}
-      \strng{fullhash}{37025fcc0e6189d9d14bf4b81ff8a782}
-      \strng{bibnamehash}{37025fcc0e6189d9d14bf4b81ff8a782}
-      \strng{authorbibnamehash}{37025fcc0e6189d9d14bf4b81ff8a782}
-      \strng{authornamehash}{37025fcc0e6189d9d14bf4b81ff8a782}
-      \strng{authorfullhash}{37025fcc0e6189d9d14bf4b81ff8a782}
+      \strng{namehash}{bed6e79b55a6ee825ea6bde6b020177d}
+      \strng{fullhash}{23a84ef733fde6039b071efbbdcd8bf2}
+      \strng{bibnamehash}{23a84ef733fde6039b071efbbdcd8bf2}
+      \strng{authorbibnamehash}{23a84ef733fde6039b071efbbdcd8bf2}
+      \strng{authornamehash}{bed6e79b55a6ee825ea6bde6b020177d}
+      \strng{authorfullhash}{23a84ef733fde6039b071efbbdcd8bf2}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{annotation}{OCLC: ocn229036125}
-      \field{edition}{2nd ed}
-      \field{isbn}{978-0-8122-1964-7}
-      \field{pagetotal}{405}
-      \field{shorttitle}{Depression}
-      \field{title}{Depression: Causes and Treatment}
-      \field{year}{2009}
+      \field{labeltitlesource}{title}
+      \field{day}{12}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{title}{Beck {{Depression Inventory}}–{{II}}}
+      \field{urlday}{10}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
+      \field{year}{2011}
       \field{dateera}{ce}
-      \keyw{Depression Mental,Depressive Disorder}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1037/t00742-000
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.apa.org/doi/10.1037/t00742-000
+      \endverb
+      \verb{url}
+      \verb https://doi.apa.org/doi/10.1037/t00742-000
+      \endverb
     \endentry
     \entry{Farre2020}{article}{}
       \name{author}{4}{}{%
@@ -487,49 +500,62 @@
       \field{year}{2014}
       \field{dateera}{ce}
     \endentry
-    \entry{beckDepressionCausesTreatment2009}{book}{}
-      \name{author}{2}{}{%
+    \entry{beckBeckDepressionInventory2011}{dataset}{}
+      \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=3e27196ce0920b340361adf6d96db620}{%
            family={Beck},
            familyi={B\bibinitperiod},
            given={Aaron\bibnamedelima T.},
            giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=cacd35543c803109c24eeb5a279c6d1a}{%
-           family={Alford},
-           familyi={A\bibinitperiod},
-           given={Brad\bibnamedelima A.},
-           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+        {{un=0,uniquepart=base,hash=2ae14b42e52d4b7bb39ae7922397f13f}{%
+           family={Steer},
+           familyi={S\bibinitperiod},
+           given={R.\bibnamedelimi A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=43b5d7ad4710e3c7cff0d446d0b6de7f}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
            givenun=0}}%
       }
-      \list{location}{1}{%
-        {Philadelphia}%
-      }
       \list{publisher}{1}{%
-        {University of Pennsylvania Press}%
+        {American Psychological Association}%
       }
-      \strng{namehash}{37025fcc0e6189d9d14bf4b81ff8a782}
-      \strng{fullhash}{37025fcc0e6189d9d14bf4b81ff8a782}
-      \strng{bibnamehash}{37025fcc0e6189d9d14bf4b81ff8a782}
-      \strng{authorbibnamehash}{37025fcc0e6189d9d14bf4b81ff8a782}
-      \strng{authornamehash}{37025fcc0e6189d9d14bf4b81ff8a782}
-      \strng{authorfullhash}{37025fcc0e6189d9d14bf4b81ff8a782}
+      \strng{namehash}{bed6e79b55a6ee825ea6bde6b020177d}
+      \strng{fullhash}{23a84ef733fde6039b071efbbdcd8bf2}
+      \strng{bibnamehash}{23a84ef733fde6039b071efbbdcd8bf2}
+      \strng{authorbibnamehash}{23a84ef733fde6039b071efbbdcd8bf2}
+      \strng{authornamehash}{bed6e79b55a6ee825ea6bde6b020177d}
+      \strng{authorfullhash}{23a84ef733fde6039b071efbbdcd8bf2}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{annotation}{OCLC: ocn229036125}
-      \field{edition}{2nd ed}
-      \field{isbn}{978-0-8122-1964-7}
-      \field{pagetotal}{405}
-      \field{shorttitle}{Depression}
-      \field{title}{Depression: Causes and Treatment}
-      \field{year}{2009}
+      \field{labeltitlesource}{title}
+      \field{day}{12}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{title}{Beck {{Depression Inventory}}–{{II}}}
+      \field{urlday}{10}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
+      \field{year}{2011}
       \field{dateera}{ce}
-      \keyw{Depression Mental,Depressive Disorder}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1037/t00742-000
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.apa.org/doi/10.1037/t00742-000
+      \endverb
+      \verb{url}
+      \verb https://doi.apa.org/doi/10.1037/t00742-000
+      \endverb
     \endentry
     \entry{Farre2020}{article}{}
       \name{author}{4}{}{%
