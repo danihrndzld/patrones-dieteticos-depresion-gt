@@ -1,0 +1,761 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/apasortcite//global/global}
+    \entry{APA2014}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=749f800298e237ee83a023bf9fb99c65}{%
+           family={APA},
+           familyi={A\bibinitperiod},
+           given={American\bibnamedelimb Psychiatric\bibnamedelimb Association\bibnamedelima -},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim \bibinithyphendelim \bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Madrid}%
+      }
+      \list{publisher}{1}{%
+        {Editorial Médica Panamericana}%
+      }
+      \strng{namehash}{749f800298e237ee83a023bf9fb99c65}
+      \strng{fullhash}{749f800298e237ee83a023bf9fb99c65}
+      \strng{bibnamehash}{749f800298e237ee83a023bf9fb99c65}
+      \strng{authorbibnamehash}{749f800298e237ee83a023bf9fb99c65}
+      \strng{authornamehash}{749f800298e237ee83a023bf9fb99c65}
+      \strng{authorfullhash}{749f800298e237ee83a023bf9fb99c65}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{5a. ed.}
+      \field{title}{Manual Diagnóstico y Estadístico de Los Trastornos Mentales {{DSM-5}}}
+      \field{year}{2014}
+      \field{dateera}{ce}
+    \endentry
+    \entry{beckBeckDepressionInventory2011}{dataset}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=3e27196ce0920b340361adf6d96db620}{%
+           family={Beck},
+           familyi={B\bibinitperiod},
+           given={Aaron\bibnamedelima T.},
+           giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ae14b42e52d4b7bb39ae7922397f13f}{%
+           family={Steer},
+           familyi={S\bibinitperiod},
+           given={R.\bibnamedelimi A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=43b5d7ad4710e3c7cff0d446d0b6de7f}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{bed6e79b55a6ee825ea6bde6b020177d}
+      \strng{fullhash}{23a84ef733fde6039b071efbbdcd8bf2}
+      \strng{bibnamehash}{23a84ef733fde6039b071efbbdcd8bf2}
+      \strng{authorbibnamehash}{23a84ef733fde6039b071efbbdcd8bf2}
+      \strng{authornamehash}{bed6e79b55a6ee825ea6bde6b020177d}
+      \strng{authorfullhash}{23a84ef733fde6039b071efbbdcd8bf2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{12}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{title}{Beck {{Depression Inventory}}–{{II}}}
+      \field{urlday}{10}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1037/t00742-000
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.apa.org/doi/10.1037/t00742-000
+      \endverb
+      \verb{url}
+      \verb https://doi.apa.org/doi/10.1037/t00742-000
+      \endverb
+    \endentry
+    \entry{Farre2020}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=d31b37ae869f191671ad98c622798c06}{%
+           family={Farré},
+           familyi={F\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f80eb8e5be3cc859c95f58a93eea861}{%
+           family={Fiorani},
+           familyi={F\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f3e9b7875f46842044354f69a7e0ac67}{%
+           family={Abdu\bibnamedelima Rahiman},
+           familyi={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bf2866991995a615831f6c2b903492c9}{%
+           family={Matteoli},
+           familyi={M\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{30c4c3c83704a9ac34706a4bdaa33d14}
+      \strng{fullhash}{07a39d0e753548ff2ac32e9990dfb4fc}
+      \strng{bibnamehash}{07a39d0e753548ff2ac32e9990dfb4fc}
+      \strng{authorbibnamehash}{07a39d0e753548ff2ac32e9990dfb4fc}
+      \strng{authornamehash}{30c4c3c83704a9ac34706a4bdaa33d14}
+      \strng{authorfullhash}{07a39d0e753548ff2ac32e9990dfb4fc}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nutrients}
+      \field{number}{4}
+      \field{title}{Intestinal Permeability, Inflammation and the Role of Nutrients}
+      \field{volume}{12}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{pages}{1185}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/nu12041185
+      \endverb
+      \verb{file}
+      \verb /Users/danihrndzld/Zotero/storage/TBS6HUGR/Farré et al. - 2020 - Intestinal permeability, inflammation and the role.pdf
+      \endverb
+    \endentry
+    \entry{Hernandez2018}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d8f5a042e754973b2979b2e49ef311dc}{%
+           family={Hernández\bibnamedelima Sampieri},
+           familyi={H\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2968c34316c71955de6818b3f8a6861a}{%
+           family={Fernández\bibnamedelima Collado},
+           familyi={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9b0283e93632d305a510f5de2af82a7f}{%
+           family={Baptista\bibnamedelima Lucio},
+           familyi={B\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {México}%
+      }
+      \list{publisher}{1}{%
+        {McGraw-Hill Interamericana}%
+      }
+      \strng{namehash}{51e82866760689317872bdcb211bbb12}
+      \strng{fullhash}{d79521c08a6d7038089dba23f380c81f}
+      \strng{bibnamehash}{d79521c08a6d7038089dba23f380c81f}
+      \strng{authorbibnamehash}{d79521c08a6d7038089dba23f380c81f}
+      \strng{authornamehash}{51e82866760689317872bdcb211bbb12}
+      \strng{authorfullhash}{d79521c08a6d7038089dba23f380c81f}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4}
+      \field{title}{Metodología de La Investigación}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{310\bibrangedash 386}
+      \range{pages}{77}
+    \endentry
+    \entry{laneUltraProcessedFoodConsumption2022}{article}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=7e9d0196ff5eb29c6a28779dfe84792c}{%
+           family={Lane},
+           familyi={L\bibinitperiod},
+           given={Melissa\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0488df9329fc5111b5d75000d850a468}{%
+           family={Gamage},
+           familyi={G\bibinitperiod},
+           given={Elizabeth},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d3a4322c15b0660bd178310ac518ec58}{%
+           family={Travica},
+           familyi={T\bibinitperiod},
+           given={Nikolaj},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6c2614616e8350b157d126ed9d95f1c5}{%
+           family={Dissanayaka},
+           familyi={D\bibinitperiod},
+           given={Thusharika},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1109b382a59be7b54d55a29b7ac9300c}{%
+           family={Ashtree},
+           familyi={A\bibinitperiod},
+           given={Deborah\bibnamedelima N.},
+           giveni={D\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cfb164a8dcdd701adcd0257784c44c64}{%
+           family={Gauci},
+           familyi={G\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b20b1a16ec236952b78373f005d4819e}{%
+           family={Lotfaliany},
+           familyi={L\bibinitperiod},
+           given={Mojtaba},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5b2996035e770bd263a4b548d8b97336}{%
+           family={O’Neil},
+           familyi={O\bibinitperiod},
+           given={Adrienne},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a33569a3907280705a17c9b3092a6e05}{%
+           family={Jacka},
+           familyi={J\bibinitperiod},
+           given={Felice\bibnamedelima N.},
+           giveni={F\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=13219349992ca052e50ad8f5505f1d0b}{%
+           family={Marx},
+           familyi={M\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0b952e934b64ab60780dee0427632b46}
+      \strng{fullhash}{5574ab5ad02fde6d16a989d757c85e08}
+      \strng{bibnamehash}{5574ab5ad02fde6d16a989d757c85e08}
+      \strng{authorbibnamehash}{5574ab5ad02fde6d16a989d757c85e08}
+      \strng{authornamehash}{0b952e934b64ab60780dee0427632b46}
+      \strng{authorfullhash}{5574ab5ad02fde6d16a989d757c85e08}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Since previous meta-analyses, which were limited only to depression and by a small number of studies available for inclusion at the time of publication, several additional studies have been published assessing the link between ultra-processed food consumption and depression as well as other mental disorders. We aimed to build on previously conducted reviews to synthesise and meta-analyse the contemporary evidence base and clarify the associations between the consumption of ultra-processed food and mental disorders. A total of 17 observational studies were included (n = 385,541); 15 cross-sectional and 2 prospective. Greater ultra-processed food consumption was cross-sectionally associated with increased odds of depressive and anxiety symptoms, both when these outcomes were assessed together (common mental disorder symptoms odds ratio: 1.53, 95\%CI 1.43 to 1.63) as well as separately (depressive symptoms odds ratio: 1.44, 95\%CI 1.14 to 1.82; and, anxiety symptoms odds ratio: 1.48, 95\%CI 1.37 to 1.59). Furthermore, a meta-analysis of prospective studies demonstrated that greater ultra-processed food intake was associated with increased risk of subsequent depression (hazard ratio: 1.22, 95\%CI 1.16 to 1.28). While we found evidence for associations between ultra-processed food consumption and adverse mental health, further rigorously designed prospective and experimental studies are needed to better understand causal pathways.}
+      \field{day}{21}
+      \field{issn}{2072-6643}
+      \field{journaltitle}{Nutrients}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{13}
+      \field{shortjournal}{Nutrients}
+      \field{shorttitle}{Ultra-{{Processed Food Consumption}} and {{Mental Health}}}
+      \field{title}{Ultra-{{Processed Food Consumption}} and {{Mental Health}}: {{A Systematic Review}} and {{Meta-Analysis}} of {{Observational Studies}}}
+      \field{urlday}{4}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{volume}{14}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{2568}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/nu14132568
+      \endverb
+      \verb{file}
+      \verb /Users/danihrndzld/Zotero/storage/U5JQPH3V/Lane et al. - 2022 - Ultra-Processed Food Consumption and Mental Health.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2072-6643/14/13/2568
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2072-6643/14/13/2568
+      \endverb
+    \endentry
+    \entry{liuFruitVegetableConsumption2016}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=15e708826954cf92c500ee8d0d2a715b}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Xiaoqin},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4d71d8751fa5d6f7b0dda09f9009d97b}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Ying},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=68665ecfb5ccb8c5ee836ad68610700a}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Fang},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=795ea227816efc4327a48ec11c582b55}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Dongfeng},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e0852e585b7b968023588321f3e100ee}
+      \strng{fullhash}{ed70b7c16caa0f8d1cb1a6277719e247}
+      \strng{bibnamehash}{ed70b7c16caa0f8d1cb1a6277719e247}
+      \strng{authorbibnamehash}{ed70b7c16caa0f8d1cb1a6277719e247}
+      \strng{authornamehash}{e0852e585b7b968023588321f3e100ee}
+      \strng{authorfullhash}{ed70b7c16caa0f8d1cb1a6277719e247}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{08999007}
+      \field{journaltitle}{Nutrition}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{3}
+      \field{shortjournal}{Nutrition}
+      \field{shorttitle}{Fruit and Vegetable Consumption and the Risk of Depression}
+      \field{title}{Fruit and Vegetable Consumption and the Risk of Depression: {{A}} Meta-Analysis}
+      \field{urlday}{4}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{volume}{32}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{296\bibrangedash 302}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/j.nut.2015.09.009
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0899900715003974
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0899900715003974
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{nyt/global//global/global}
+    \entry{APA2014}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=749f800298e237ee83a023bf9fb99c65}{%
+           family={APA},
+           familyi={A\bibinitperiod},
+           given={American\bibnamedelimb Psychiatric\bibnamedelimb Association\bibnamedelima -},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim \bibinithyphendelim \bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Madrid}%
+      }
+      \list{publisher}{1}{%
+        {Editorial Médica Panamericana}%
+      }
+      \strng{namehash}{749f800298e237ee83a023bf9fb99c65}
+      \strng{fullhash}{749f800298e237ee83a023bf9fb99c65}
+      \strng{bibnamehash}{749f800298e237ee83a023bf9fb99c65}
+      \strng{authorbibnamehash}{749f800298e237ee83a023bf9fb99c65}
+      \strng{authornamehash}{749f800298e237ee83a023bf9fb99c65}
+      \strng{authorfullhash}{749f800298e237ee83a023bf9fb99c65}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{5a. ed.}
+      \field{title}{Manual Diagnóstico y Estadístico de Los Trastornos Mentales {{DSM-5}}}
+      \field{year}{2014}
+      \field{dateera}{ce}
+    \endentry
+    \entry{beckBeckDepressionInventory2011}{dataset}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=3e27196ce0920b340361adf6d96db620}{%
+           family={Beck},
+           familyi={B\bibinitperiod},
+           given={Aaron\bibnamedelima T.},
+           giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ae14b42e52d4b7bb39ae7922397f13f}{%
+           family={Steer},
+           familyi={S\bibinitperiod},
+           given={R.\bibnamedelimi A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=43b5d7ad4710e3c7cff0d446d0b6de7f}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{bed6e79b55a6ee825ea6bde6b020177d}
+      \strng{fullhash}{23a84ef733fde6039b071efbbdcd8bf2}
+      \strng{bibnamehash}{23a84ef733fde6039b071efbbdcd8bf2}
+      \strng{authorbibnamehash}{23a84ef733fde6039b071efbbdcd8bf2}
+      \strng{authornamehash}{bed6e79b55a6ee825ea6bde6b020177d}
+      \strng{authorfullhash}{23a84ef733fde6039b071efbbdcd8bf2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{12}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{title}{Beck {{Depression Inventory}}–{{II}}}
+      \field{urlday}{10}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1037/t00742-000
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.apa.org/doi/10.1037/t00742-000
+      \endverb
+      \verb{url}
+      \verb https://doi.apa.org/doi/10.1037/t00742-000
+      \endverb
+    \endentry
+    \entry{Farre2020}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=d31b37ae869f191671ad98c622798c06}{%
+           family={Farré},
+           familyi={F\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f80eb8e5be3cc859c95f58a93eea861}{%
+           family={Fiorani},
+           familyi={F\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f3e9b7875f46842044354f69a7e0ac67}{%
+           family={Abdu\bibnamedelima Rahiman},
+           familyi={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bf2866991995a615831f6c2b903492c9}{%
+           family={Matteoli},
+           familyi={M\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{30c4c3c83704a9ac34706a4bdaa33d14}
+      \strng{fullhash}{07a39d0e753548ff2ac32e9990dfb4fc}
+      \strng{bibnamehash}{07a39d0e753548ff2ac32e9990dfb4fc}
+      \strng{authorbibnamehash}{07a39d0e753548ff2ac32e9990dfb4fc}
+      \strng{authornamehash}{30c4c3c83704a9ac34706a4bdaa33d14}
+      \strng{authorfullhash}{07a39d0e753548ff2ac32e9990dfb4fc}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nutrients}
+      \field{number}{4}
+      \field{title}{Intestinal Permeability, Inflammation and the Role of Nutrients}
+      \field{volume}{12}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{pages}{1185}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/nu12041185
+      \endverb
+      \verb{file}
+      \verb /Users/danihrndzld/Zotero/storage/TBS6HUGR/Farré et al. - 2020 - Intestinal permeability, inflammation and the role.pdf
+      \endverb
+    \endentry
+    \entry{Hernandez2018}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d8f5a042e754973b2979b2e49ef311dc}{%
+           family={Hernández\bibnamedelima Sampieri},
+           familyi={H\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2968c34316c71955de6818b3f8a6861a}{%
+           family={Fernández\bibnamedelima Collado},
+           familyi={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9b0283e93632d305a510f5de2af82a7f}{%
+           family={Baptista\bibnamedelima Lucio},
+           familyi={B\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {México}%
+      }
+      \list{publisher}{1}{%
+        {McGraw-Hill Interamericana}%
+      }
+      \strng{namehash}{51e82866760689317872bdcb211bbb12}
+      \strng{fullhash}{d79521c08a6d7038089dba23f380c81f}
+      \strng{bibnamehash}{d79521c08a6d7038089dba23f380c81f}
+      \strng{authorbibnamehash}{d79521c08a6d7038089dba23f380c81f}
+      \strng{authornamehash}{51e82866760689317872bdcb211bbb12}
+      \strng{authorfullhash}{d79521c08a6d7038089dba23f380c81f}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4}
+      \field{title}{Metodología de La Investigación}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{310\bibrangedash 386}
+      \range{pages}{77}
+    \endentry
+    \entry{laneUltraProcessedFoodConsumption2022}{article}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=7e9d0196ff5eb29c6a28779dfe84792c}{%
+           family={Lane},
+           familyi={L\bibinitperiod},
+           given={Melissa\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0488df9329fc5111b5d75000d850a468}{%
+           family={Gamage},
+           familyi={G\bibinitperiod},
+           given={Elizabeth},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d3a4322c15b0660bd178310ac518ec58}{%
+           family={Travica},
+           familyi={T\bibinitperiod},
+           given={Nikolaj},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6c2614616e8350b157d126ed9d95f1c5}{%
+           family={Dissanayaka},
+           familyi={D\bibinitperiod},
+           given={Thusharika},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1109b382a59be7b54d55a29b7ac9300c}{%
+           family={Ashtree},
+           familyi={A\bibinitperiod},
+           given={Deborah\bibnamedelima N.},
+           giveni={D\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cfb164a8dcdd701adcd0257784c44c64}{%
+           family={Gauci},
+           familyi={G\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b20b1a16ec236952b78373f005d4819e}{%
+           family={Lotfaliany},
+           familyi={L\bibinitperiod},
+           given={Mojtaba},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5b2996035e770bd263a4b548d8b97336}{%
+           family={O’Neil},
+           familyi={O\bibinitperiod},
+           given={Adrienne},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a33569a3907280705a17c9b3092a6e05}{%
+           family={Jacka},
+           familyi={J\bibinitperiod},
+           given={Felice\bibnamedelima N.},
+           giveni={F\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=13219349992ca052e50ad8f5505f1d0b}{%
+           family={Marx},
+           familyi={M\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0b952e934b64ab60780dee0427632b46}
+      \strng{fullhash}{5574ab5ad02fde6d16a989d757c85e08}
+      \strng{bibnamehash}{5574ab5ad02fde6d16a989d757c85e08}
+      \strng{authorbibnamehash}{5574ab5ad02fde6d16a989d757c85e08}
+      \strng{authornamehash}{0b952e934b64ab60780dee0427632b46}
+      \strng{authorfullhash}{5574ab5ad02fde6d16a989d757c85e08}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Since previous meta-analyses, which were limited only to depression and by a small number of studies available for inclusion at the time of publication, several additional studies have been published assessing the link between ultra-processed food consumption and depression as well as other mental disorders. We aimed to build on previously conducted reviews to synthesise and meta-analyse the contemporary evidence base and clarify the associations between the consumption of ultra-processed food and mental disorders. A total of 17 observational studies were included (n = 385,541); 15 cross-sectional and 2 prospective. Greater ultra-processed food consumption was cross-sectionally associated with increased odds of depressive and anxiety symptoms, both when these outcomes were assessed together (common mental disorder symptoms odds ratio: 1.53, 95\%CI 1.43 to 1.63) as well as separately (depressive symptoms odds ratio: 1.44, 95\%CI 1.14 to 1.82; and, anxiety symptoms odds ratio: 1.48, 95\%CI 1.37 to 1.59). Furthermore, a meta-analysis of prospective studies demonstrated that greater ultra-processed food intake was associated with increased risk of subsequent depression (hazard ratio: 1.22, 95\%CI 1.16 to 1.28). While we found evidence for associations between ultra-processed food consumption and adverse mental health, further rigorously designed prospective and experimental studies are needed to better understand causal pathways.}
+      \field{day}{21}
+      \field{issn}{2072-6643}
+      \field{journaltitle}{Nutrients}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{13}
+      \field{shortjournal}{Nutrients}
+      \field{shorttitle}{Ultra-{{Processed Food Consumption}} and {{Mental Health}}}
+      \field{title}{Ultra-{{Processed Food Consumption}} and {{Mental Health}}: {{A Systematic Review}} and {{Meta-Analysis}} of {{Observational Studies}}}
+      \field{urlday}{4}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{volume}{14}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{2568}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/nu14132568
+      \endverb
+      \verb{file}
+      \verb /Users/danihrndzld/Zotero/storage/U5JQPH3V/Lane et al. - 2022 - Ultra-Processed Food Consumption and Mental Health.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2072-6643/14/13/2568
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2072-6643/14/13/2568
+      \endverb
+    \endentry
+    \entry{liuFruitVegetableConsumption2016}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=15e708826954cf92c500ee8d0d2a715b}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Xiaoqin},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4d71d8751fa5d6f7b0dda09f9009d97b}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Ying},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=68665ecfb5ccb8c5ee836ad68610700a}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Fang},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=795ea227816efc4327a48ec11c582b55}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Dongfeng},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e0852e585b7b968023588321f3e100ee}
+      \strng{fullhash}{ed70b7c16caa0f8d1cb1a6277719e247}
+      \strng{bibnamehash}{ed70b7c16caa0f8d1cb1a6277719e247}
+      \strng{authorbibnamehash}{ed70b7c16caa0f8d1cb1a6277719e247}
+      \strng{authornamehash}{e0852e585b7b968023588321f3e100ee}
+      \strng{authorfullhash}{ed70b7c16caa0f8d1cb1a6277719e247}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{08999007}
+      \field{journaltitle}{Nutrition}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{3}
+      \field{shortjournal}{Nutrition}
+      \field{shorttitle}{Fruit and Vegetable Consumption and the Risk of Depression}
+      \field{title}{Fruit and Vegetable Consumption and the Risk of Depression: {{A}} Meta-Analysis}
+      \field{urlday}{4}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{volume}{32}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{296\bibrangedash 302}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/j.nut.2015.09.009
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0899900715003974
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0899900715003974
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

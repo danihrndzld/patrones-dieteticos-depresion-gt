@@ -202,9 +202,9 @@ The CONSORT flow diagram (Figure \ref{fig:consort}) illustrates the participant 
             arrow/.style={thick, ->, >=stealth}
         ]
         \node (start) [startstop] {\makecell{Assessed for eligibility(n = 65)}};
-        \node (criteria) [process, below of=start, yshift=-0.2\columnwidth] {\makecell[l]{Inclusion Criteria:1. Women2. Aged 25-30 years3. Residing in Guatemala City4. Willing to participate}};
+        \node (criteria) [process, below of=start, yshift=-0.2\columnwidth] {\makecell[l]{Inclusion Criteria:\\1. Women\\2. Aged 25-30 years\\3. Residing in Guatemala City\\4. Willing to participate}};
         \node (enrolled) [process, below of=criteria, yshift=-0.15\columnwidth] {\makecell{Enrolled in the study(n = 30)}};
-        \node (excluded) [process, right of=enrolled, xshift=0.45\columnwidth] {\makecell[l]{Excluded (n = 35):- Not meeting inclusion criteria- Declined to participate- Other reasons}};
+        \node (excluded) [process, right of=enrolled, xshift=0.45\columnwidth] {\makecell[l]{Excluded (n = 35):\\- Not meeting inclusion criteria\\- Declined to participate\\- Other reasons}};
         \node (analyzed) [process, below of=enrolled, yshift=-0.1\columnwidth] {\makecell{Analyzed(n = 30)}};
         
         \draw [arrow] (start) -- (criteria);
@@ -318,17 +318,17 @@ The potential impact and benefits of this research for both the participants and
 	\resizebox{0.8\columnwidth}{!}{
 		\begin{tabular}{@{}rrrr@{}}
 			\toprule
-			\textbf{Statistic}             & \textbf{Total Beck} & \textbf{Total Diet}   \midrule
-			\textbf{N}                       & $30.00$                  & $30.00$                   
-			\textbf{Mean}                   & $19.00$                  & $4.77$                    
-			\textbf{Median}                 & $17.00$                  & $6.00$                    
-			\textbf{Standard Deviation}     & $9.28$                   & $9.58$                    
-			\textbf{Minimum}                  & $7.00$                   & $-17.00$                  
-			\textbf{Maximum}                  & $42.00$                  & $21.00$                   
-			\textbf{Skewness}               & $0.97$                   & $-0.22$                   
-			\textbf{Kurtosis}                & $0.14$                   & $-0.60$                   
-			\textbf{Shapiro-Wilk W}       & $0.90$                   & $0.97$                    
-			\textbf{Shapiro-Wilk p-value} & $0.01$                   & $0.63$                     \bottomrule
+			\textbf{Statistic}             & \textbf{Total Beck} & \textbf{Total Diet}  \\ \midrule
+			\textbf{N}                       & $30.00$                  & $30.00$                   \\
+			\textbf{Mean}                   & $19.00$                  & $4.77$                    \\
+			\textbf{Median}                 & $17.00$                  & $6.00$                    \\
+			\textbf{Standard Deviation}     & $9.28$                   & $9.58$                    \\
+			\textbf{Minimum}                  & $7.00$                   & $-17.00$                  \\
+			\textbf{Maximum}                  & $42.00$                  & $21.00$                   \\
+			\textbf{Skewness}               & $0.97$                   & $-0.22$                   \\
+			\textbf{Kurtosis}                & $0.14$                   & $-0.60$                   \\
+			\textbf{Shapiro-Wilk W}       & $0.90$                   & $0.97$                    \\
+			\textbf{Shapiro-Wilk p-value} & $0.01$                   & $0.63$                    \\ \bottomrule
 		\end{tabular}
 	}
 
@@ -336,6 +336,7 @@ The potential impact and benefits of this research for both the participants and
 
 	\label{tab:descriptives}
 \end{table}
+
 
 
 \subsubsection{Total Beck Scale}
@@ -350,7 +351,7 @@ The distribution of diet scores is normal and has negative values, which are all
 	\begin{subfigure}[b]{\subfigwidth}
 		\centering
 		\includegraphics[width=\linewidth]{Box_Plot_of_dieta_total.pdf}
-		\caption{Total Diet}
+		\caption{Diet Total}
 		\label{fig:BoxPlotDietaTotal}
 	\end{subfigure}
 	\hspace{0.5em}
@@ -363,36 +364,39 @@ The distribution of diet scores is normal and has negative values, which are all
 
 	\caption{Box and Whisker Plots of Variables}
 	\label{fig:BoxPlots}
+
 \end{figure}
-\begin{table}[H]
-	\centering
-	\resizebox{\textwidth}{!}{%
-	\begin{tabular}{@{}llll@{}}
-		\toprule
-		\textbf{Variable 1}         & \textbf{Variable 2}         & \textbf{$R^2$}     & \textbf{P Value}  \midrule
-		fruit consumption           & loss of pleasure            & $-0.488897$          & $0.006$            
-		fruit consumption           & suicidal thoughts           & $-0.480279$          & $0.007$            
-		sugar consumption           & pessimism                   & $0.432226$           & $0.017$            
-		soda consumption            & loss of interest            & $0.418097$           & $0.021$            
-		flour consumption           & concentration difficulty    & $0.413595$           & $0.023$            
-		red meat consumption        & pessimism                   & $0.407187$           & $0.026$            
-		ginger consumption          & agitation                   & $-0.403648$          & $0.027$            
-		fruit consumption           & punishment feeling          & $-0.397679$          & $0.030$            
-		fruit consumption           & dissatisfaction             & $-0.390977$          & $0.033$            
-		red meat consumption        & irritability                & $0.388368$           & $0.034$            
-		sugar consumption           & irritability                & $0.377928$           & $0.039$            
-		flour consumption           & loss of interest            & $0.377707$           & $0.040$            
-		total diet questionnaire    & irritability                & $-0.372452$          & $0.043$            
-		soda consumption            & indecision                  & $0.371774$           & $0.043$            
-		alcohol consumption         & agitation                   & $0.365651$           & $0.047$            
-		fruit consumption           & loss of interest            & $-0.365214$          & $0.047$            
-		soda consumption            & appetite changes            & $0.353747$           & $0.055$            
-		total diet questionnaire    & punishment feeling          & $-0.351071$          & $0.057$             \bottomrule
-	\end{tabular}
-	} % resizebox
-	\caption{Correlation Table}
-	\label{tab:tableOfCorr}
- \end{table}
+	\begin{table}[H]
+		\centering
+		\resizebox{\textwidth}{!}{%
+		\begin{tabular}{@{}llll@{}}
+			\toprule
+			\textbf{Variable 1}         & \textbf{Variable 2}         & \textbf{$R^2$}     & \textbf{P Value} \\ \midrule
+			fruit consumption           & loss of pleasure            & $-0.488897$          & $0.006$            \\
+			fruit consumption           & suicidal thoughts           & $-0.480279$          & $0.007$            \\
+			sugar consumption           & pessimism                   & $0.432226$           & $0.017$            \\
+			soda consumption            & loss of interest            & $0.418097$           & $0.021$            \\
+			flour consumption           & concentration difficulty    & $0.413595$           & $0.023$            \\
+			red meat consumption        & pessimism                   & $0.407187$           & $0.026$            \\
+			ginger consumption          & agitation                   & $-0.403648$          & $0.027$            \\
+			fruit consumption           & punishment feeling          & $-0.397679$          & $0.030$            \\
+			fruit consumption           & dissatisfaction             & $-0.390977$          & $0.033$            \\
+			red meat consumption        & irritability                & $0.388368$           & $0.034$            \\
+			sugar consumption           & irritability                & $0.377928$           & $0.039$            \\
+			flour consumption           & loss of interest            & $0.377707$           & $0.040$            \\
+			total diet questionnaire    & irritability                & $-0.372452$          & $0.043$            \\
+			soda consumption            & indecision                  & $0.371774$           & $0.043$            \\
+			alcohol consumption         & agitation                   & $0.365651$           & $0.047$            \\
+			fruit consumption           & loss of interest            & $-0.365214$          & $0.047$            \\
+			soda consumption            & appetite changes            & $0.353747$           & $0.055$            \\
+			total diet questionnaire    & punishment feeling          & $-0.351071$          & $0.057$            \\ \bottomrule
+		\end{tabular}
+		} % resizebox
+
+		\caption{Correlation Table}
+		\label{tab:tableOfCorr}
+	\end{table}
+	 
 
 
 The table \ref{tab:tableOfCorr} shows the correlations between various consumption variables and different emotional or psychological symptoms, along with the associated p-values indicating the statistical significance of these correlations.
@@ -409,7 +413,7 @@ A positive correlation was observed between red meat consumption and irritabilit
 
 Most of the negative correlations involve fruit consumption, which could suggest a protective effect of fruit consumption against certain negative psychological symptoms. The positive correlations between sugar and soda consumption with negative symptoms such as pessimism and loss of interest could indicate the need to moderate the consumption of these products to improve emotional well-being.
 
-All mentioned correlations are significant with a p-value \textless{} 0.05, which supports the robustness of these associations. These insights can be used to recommend dietary adjustments as part of a holistic approach to improving emotional and mental well-being.
+All mentioned correlations are significant with a p-value \textless{} $0.05$, which supports the robustness of these associations. These insights can be used to recommend dietary adjustments as part of a holistic approach to improving emotional and mental well-being.
 
 
 \subsection{Beck Depressive Symptoms}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.18)  19 SEP 2024 19:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.18)  19 SEP 2024 19:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1507,6 +1507,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package hyperref Info: Link coloring OFF on input line 95.
+ (./main.out) (./main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
@@ -1543,9 +1544,8 @@ Package biblatex Info: Automatic encoding selection.
 \openout4 = `main.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'main.bbl' not found.
-
-No file main.bbl.
+Package biblatex Info: ... file 'main.bbl' found.
+ (./main.bbl)
 Package biblatex Info: Reference section=0 on input line 95.
 Package biblatex Info: Reference segment=0 on input line 95.
 LaTeX Info: Redefining \microtypecontext on input line 95.
@@ -1564,7 +1564,7 @@ LaTeX Info: Redefining \showhyphens on input line 95.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
-(/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/mt-ptm.cfg
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/mt-ptm.cfg
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
 LaTeX Font Info:    Trying to load font information for OT1+txr on input line 96.
@@ -1589,944 +1589,80 @@ File: utxsyc.fd 2000/12/15 v3.1
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [1{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc}
 
 
-LaTeX Warning: Citation 'APA2014' on page 1 undefined on input line 108.
-
-[1{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc}
-
-
-]
-
-LaTeX Warning: Citation 'Farre2020' on page 2 undefined on input line 124.
-
-
-LaTeX Warning: Citation 'Farre2020' on page 2 undefined on input line 126.
-
-[2]
-
-LaTeX Warning: Citation 'beckBeckDepressionInventory2011' on page 3 undefined on input line 185.
-
-
-LaTeX Warning: Citation 'Hernandez2018' on page 3 undefined on input line 190.
-
-
-LaTeX Warning: Reference `fig:consort' on page 3 undefined on input line 192.
-
-[3] [4]
-<freq.age.pdf, id=92, 602.25pt x 372.39125pt>
+] [2] [3] [4]
+<freq.age.pdf, id=285, 602.25pt x 372.39125pt>
 File: freq.age.pdf Graphic file (type pdf)
 <use freq.age.pdf>
 Package pdftex.def Info: freq.age.pdf  used on input line 311.
 (pdftex.def)             Requested size: 241.74117pt x 149.47662pt.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \noalign.
-\midrule ->\noalign 
-                    {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global \@...
-l.333 	}
-        
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing } inserted.
-<inserted text> 
-                }
-l.333 	}
-        
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.333 	}
-        
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing } inserted.
-<inserted text> 
-                }
-l.333 	}
-        
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing } inserted.
-<inserted text> 
-                }
-l.333 	}
-        
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.333 	}
-        
-I'm guessing that you meant to end an alignment here.
-
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.333 	}
-        
-(That makes 100 errors; please try again.) 
+ [5 <./freq.age.pdf>]
+<Box_Plot_of_dieta_total.pdf, id=301, 433.62pt x 722.7pt>
+File: Box_Plot_of_dieta_total.pdf Graphic file (type pdf)
+<use Box_Plot_of_dieta_total.pdf>
+Package pdftex.def Info: Box_Plot_of_dieta_total.pdf  used on input line 353.
+(pdftex.def)             Requested size: 48.3479pt x 80.57793pt.
+<Box_Plot_of_beck_total.pdf, id=302, 433.62pt x 722.7pt>
+File: Box_Plot_of_beck_total.pdf Graphic file (type pdf)
+<use Box_Plot_of_beck_total.pdf>
+Package pdftex.def Info: Box_Plot_of_beck_total.pdf  used on input line 360.
+(pdftex.def)             Requested size: 48.3479pt x 80.57793pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6 <./Box_Plot_of_dieta_total.pdf> <./Box_Plot_of_beck_total.pdf>]
+<sintomasDepresivosBeckGraph.pdf, id=356, 298.2922pt x 204.91747pt>
+File: sintomasDepresivosBeckGraph.pdf Graphic file (type pdf)
+<use sintomasDepresivosBeckGraph.pdf>
+Package pdftex.def Info: sintomasDepresivosBeckGraph.pdf  used on input line 422.
+(pdftex.def)             Requested size: 234.08252pt x 160.8074pt.
+<dietGraph.pdf, id=357, 392.34167pt x 106.47559pt>
+File: dietGraph.pdf Graphic file (type pdf)
+<use dietGraph.pdf>
+Package pdftex.def Info: dietGraph.pdf  used on input line 431.
+(pdftex.def)             Requested size: 241.74667pt x 65.60637pt.
+ [7 <./sintomasDepresivosBeckGraph.pdf> <./dietGraph.pdf
+
+pdfTeX warning: pdflatex (file ./dietGraph.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>] [8]
+- LAST -
+Extra skip:14.76373pt
+Left:319.22197pt/2.16492pt
+Right:304.45824pt/2.16492pt
+Split: 318.22197pt
+Output:318.22197pt
+Pageshrink: 0.0pt
+Pagestretch: 0.0pt
+@colht:643.20255pt
+FLUSHEND [output]: 318.22197pt
+FLUSHEND [leftcolumn badness]: 1
+FUSHEND [rightcolumn badness]: 10000
+ [9] (./main.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+ ***********
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 8342BAF14D61B96178F2A5E0292D07D5;9862.
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+ ) 
 Here is how much of TeX's memory you used:
- 38979 strings out of 474116
- 733971 string characters out of 5743682
+ 39296 strings out of 474116
+ 740628 string characters out of 5743682
  1952187 words of memory out of 5000000
- 60374 multiletter control sequences out of 15000+600000
- 645945 words of font info for 375 fonts, out of 8000000 for 9000
+ 60598 multiletter control sequences out of 15000+600000
+ 647287 words of font info for 393 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,13n,107p,1192b,5050s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,13n,107p,1644b,5050s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (9 pages, 226328 bytes).
+PDF statistics:
+ 500 PDF objects out of 1000 (max. 8388607)
+ 401 compressed objects within 5 object streams
+ 95 named destinations out of 1000 (max. 500000)
+ 96806 words of extra memory for PDF output out of 106986 (max. 10000000)
 
-/Users/danihrndzld/Documents/CamilaTrabajos/Camila Tesis UFM/main.tex:333:  ==> Fatal error occurred, no output PDF file produced!
