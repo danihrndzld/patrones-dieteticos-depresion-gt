@@ -230,8 +230,6 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/sttools/flushend.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tools/ftnright.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tools/ftnright.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tools/ftnright.sty
-INPUT ./jobname.bib
-INPUT jobname.bib
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/txfonts/t1txr.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/txfonts/t1txr.fd
@@ -533,7 +531,6 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/txfonts/txbsy.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/txfonts/txbsy.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/txfonts/txbex.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/txfonts/txbex.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmb8t.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmr8t.vf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
 INPUT /usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
@@ -554,12 +551,14 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/txfonts/rtxptmr.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/txfonts/rtxr.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmri8t.vf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmb8t.vf
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmb8t.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmr8t.vf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmb8t.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmbi8t.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmri8t.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmbi8t.vf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmbi8r.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/txfonts/txmi.vf
@@ -568,7 +567,6 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/txfonts/rtxptmri.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/txfonts/txr.vf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/txfonts/rtxptmr.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/txfonts/rtxr.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmri8t.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmri8t.vf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm
 INPUT ./freq.age.pdf
